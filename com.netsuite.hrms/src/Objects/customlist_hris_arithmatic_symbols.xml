@@ -1,0 +1,44 @@
+<customlist scriptid="customlist_hris_arithmatic_symbols">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Arithmatic Symbols</name>
+  <customvalues>
+    <customvalue scriptid="val_20550_2772245_333">
+      <isinactive>F</isinactive>
+      <value>%</value>
+    </customvalue>
+    <customvalue scriptid="val_20551_2772245_319">
+      <isinactive>F</isinactive>
+      <value>(</value>
+    </customvalue>
+    <customvalue scriptid="val_20552_2772245_751">
+      <isinactive>F</isinactive>
+      <value>)</value>
+    </customvalue>
+    <customvalue scriptid="val_20553_2772245_962">
+      <isinactive>F</isinactive>
+      <value>*</value>
+    </customvalue>
+    <customvalue scriptid="val_20554_2772245_613">
+      <isinactive>F</isinactive>
+      <value>+</value>
+    </customvalue>
+    <customvalue scriptid="val_20555_2772245_885">
+      <isinactive>F</isinactive>
+      <value>+</value>
+    </customvalue>
+    <customvalue scriptid="val_20556_2772245_339">
+      <isinactive>F</isinactive>
+      <value>-</value>
+    </customvalue>
+    <customvalue scriptid="val_20557_2772245_160">
+      <isinactive>F</isinactive>
+      <value>/</value>
+    </customvalue>
+    <customvalue scriptid="val_20558_2772245_818">
+      <isinactive>F</isinactive>
+      <value>=</value>
+    </customvalue>
+  </customvalues>
+</customlist>

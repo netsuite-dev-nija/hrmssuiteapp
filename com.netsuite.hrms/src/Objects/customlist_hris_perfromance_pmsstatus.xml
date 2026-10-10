@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_perfromance_pmsstatus">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>PMS status</name>
+  <customvalues>
+    <customvalue scriptid="val_95806_2772245_841">
+      <isinactive>F</isinactive>
+      <value>Open</value>
+    </customvalue>
+    <customvalue scriptid="val_95807_2772245_917">
+      <isinactive>F</isinactive>
+      <value>Completed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

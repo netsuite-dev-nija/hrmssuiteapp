@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_employeejobstatus">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Employee_Job_Status</name>
+  <customvalues>
+    <customvalue scriptid="val_23238_2772245_945">
+      <isinactive>F</isinactive>
+      <value>Trainee</value>
+    </customvalue>
+    <customvalue scriptid="val_23239_2772245_948">
+      <isinactive>F</isinactive>
+      <value>Probationer</value>
+    </customvalue>
+    <customvalue scriptid="val_23240_2772245_399">
+      <isinactive>F</isinactive>
+      <value>Confirmed</value>
+    </customvalue>
+    <customvalue scriptid="val_23241_2772245_953">
+      <isinactive>F</isinactive>
+      <value>All</value>
+    </customvalue>
+  </customvalues>
+</customlist>

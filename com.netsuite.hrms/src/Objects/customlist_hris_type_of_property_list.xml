@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_type_of_property_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>TYPE OF PROPERTY LIST</name>
+  <customvalues>
+    <customvalue scriptid="val_20693_2772245_239">
+      <isinactive>F</isinactive>
+      <value>Own</value>
+    </customvalue>
+    <customvalue scriptid="val_20694_2772245_278">
+      <isinactive>F</isinactive>
+      <value>Rent</value>
+    </customvalue>
+    <customvalue scriptid="val_20695_2772245_124">
+      <isinactive>F</isinactive>
+      <value>Others</value>
+    </customvalue>
+  </customvalues>
+</customlist>

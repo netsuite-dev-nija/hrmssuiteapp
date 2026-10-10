@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_letter_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Letter type list</name>
+  <customvalues>
+    <customvalue scriptid="val_28012_2772245_697">
+      <isinactive>F</isinactive>
+      <value>Offer Letter</value>
+    </customvalue>
+    <customvalue scriptid="val_28013_2772245_521">
+      <isinactive>F</isinactive>
+      <value>Salary Certificate</value>
+    </customvalue>
+    <customvalue scriptid="val_96882_2772245_836">
+      <isinactive>F</isinactive>
+      <value>Experience letter</value>
+    </customvalue>
+  </customvalues>
+</customlist>

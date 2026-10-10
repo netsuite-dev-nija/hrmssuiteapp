@@ -1,0 +1,104 @@
+<customlist scriptid="customlist_hris_subdepartment">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Sub Department</name>
+  <customvalues>
+    <customvalue scriptid="val_20631_2772245_748">
+      <isinactive>F</isinactive>
+      <value>Mechanical</value>
+    </customvalue>
+    <customvalue scriptid="val_20632_2772245_922">
+      <isinactive>F</isinactive>
+      <value>Electrical</value>
+    </customvalue>
+    <customvalue scriptid="val_20633_2772245_132">
+      <isinactive>F</isinactive>
+      <value>Automation</value>
+    </customvalue>
+    <customvalue scriptid="val_20634_2772245_636">
+      <isinactive>F</isinactive>
+      <value>Design</value>
+    </customvalue>
+    <customvalue scriptid="val_20635_2772245_817">
+      <isinactive>F</isinactive>
+      <value>BA</value>
+    </customvalue>
+    <customvalue scriptid="val_20636_2772245_537">
+      <isinactive>F</isinactive>
+      <value>Calibration</value>
+    </customvalue>
+    <customvalue scriptid="val_20637_2772245_892">
+      <isinactive>F</isinactive>
+      <value>Fire</value>
+    </customvalue>
+    <customvalue scriptid="val_20638_2772245_223">
+      <isinactive>F</isinactive>
+      <value>Liferaft</value>
+    </customvalue>
+    <customvalue scriptid="val_20639_2772245_286">
+      <isinactive>F</isinactive>
+      <value>MSI</value>
+    </customvalue>
+    <customvalue scriptid="val_20640_2772245_966">
+      <isinactive>F</isinactive>
+      <value>System</value>
+    </customvalue>
+    <customvalue scriptid="val_20641_2772245_241">
+      <isinactive>F</isinactive>
+      <value>Estimation</value>
+    </customvalue>
+    <customvalue scriptid="val_20642_2772245_390">
+      <isinactive>F</isinactive>
+      <value>Execution</value>
+    </customvalue>
+    <customvalue scriptid="val_20643_2772245_594">
+      <isinactive>F</isinactive>
+      <value>None</value>
+    </customvalue>
+    <customvalue scriptid="val_20644_2772245_367">
+      <isinactive>F</isinactive>
+      <value>E &amp; I</value>
+    </customvalue>
+    <customvalue scriptid="val_20645_2772245_770">
+      <isinactive>F</isinactive>
+      <value>Rental-ADCO</value>
+    </customvalue>
+    <customvalue scriptid="val_20646_2772245_102">
+      <isinactive>F</isinactive>
+      <value>Service-ADNOC</value>
+    </customvalue>
+    <customvalue scriptid="val_84343_2772245_477">
+      <isinactive>F</isinactive>
+      <value>Accounts</value>
+    </customvalue>
+    <customvalue scriptid="val_84344_2772245_439">
+      <isinactive>F</isinactive>
+      <value>Administration</value>
+    </customvalue>
+    <customvalue scriptid="val_84345_2772245_621">
+      <isinactive>F</isinactive>
+      <value>Common</value>
+    </customvalue>
+    <customvalue scriptid="val_84346_2772245_606">
+      <isinactive>F</isinactive>
+      <value>Forklift Rental</value>
+    </customvalue>
+    <customvalue scriptid="val_84347_2772245_359">
+      <isinactive>F</isinactive>
+      <value>Forklift Sales</value>
+    </customvalue>
+    <customvalue scriptid="val_84348_2772245_857">
+      <isinactive>F</isinactive>
+      <value>Workshop</value>
+    </customvalue>
+    <customvalue scriptid="val_84349_2772245_646">
+      <isinactive>F</isinactive>
+      <value>FWME</value>
+    </customvalue>
+    <customvalue scriptid="val_84350_2772245_251">
+      <isinactive>F</isinactive>
+      <value>Human Resources</value>
+    </customvalue>
+  </customvalues>
+</customlist>

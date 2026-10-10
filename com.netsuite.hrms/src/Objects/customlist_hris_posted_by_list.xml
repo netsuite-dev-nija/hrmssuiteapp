@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_posted_by_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Posted by List</name>
+  <customvalues>
+    <customvalue scriptid="val_20592_2772245_468">
+      <isinactive>F</isinactive>
+      <value>Mobile</value>
+    </customvalue>
+    <customvalue scriptid="val_20593_2772245_945">
+      <isinactive>F</isinactive>
+      <value>Web</value>
+    </customvalue>
+  </customvalues>
+</customlist>

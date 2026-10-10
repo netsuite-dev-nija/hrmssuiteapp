@@ -1,0 +1,408 @@
+<customlist scriptid="customlist_hris_recruitment_age_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Age list</name>
+  <customvalues>
+    <customvalue scriptid="val_35342_2772245_599">
+      <isinactive>F</isinactive>
+      <value>1</value>
+    </customvalue>
+    <customvalue scriptid="val_35343_2772245_959">
+      <isinactive>F</isinactive>
+      <value>2</value>
+    </customvalue>
+    <customvalue scriptid="val_35344_2772245_787">
+      <isinactive>F</isinactive>
+      <value>3</value>
+    </customvalue>
+    <customvalue scriptid="val_35345_2772245_326">
+      <isinactive>F</isinactive>
+      <value>4</value>
+    </customvalue>
+    <customvalue scriptid="val_35346_2772245_968">
+      <isinactive>F</isinactive>
+      <value>5</value>
+    </customvalue>
+    <customvalue scriptid="val_35347_2772245_357">
+      <isinactive>F</isinactive>
+      <value>6</value>
+    </customvalue>
+    <customvalue scriptid="val_35348_2772245_594">
+      <isinactive>F</isinactive>
+      <value>7</value>
+    </customvalue>
+    <customvalue scriptid="val_35349_2772245_704">
+      <isinactive>F</isinactive>
+      <value>8</value>
+    </customvalue>
+    <customvalue scriptid="val_35350_2772245_900">
+      <isinactive>F</isinactive>
+      <value>9</value>
+    </customvalue>
+    <customvalue scriptid="val_35351_2772245_485">
+      <isinactive>F</isinactive>
+      <value>10</value>
+    </customvalue>
+    <customvalue scriptid="val_35352_2772245_733">
+      <isinactive>F</isinactive>
+      <value>11</value>
+    </customvalue>
+    <customvalue scriptid="val_35353_2772245_232">
+      <isinactive>F</isinactive>
+      <value>12</value>
+    </customvalue>
+    <customvalue scriptid="val_35354_2772245_143">
+      <isinactive>F</isinactive>
+      <value>13</value>
+    </customvalue>
+    <customvalue scriptid="val_35355_2772245_660">
+      <isinactive>F</isinactive>
+      <value>14</value>
+    </customvalue>
+    <customvalue scriptid="val_35356_2772245_401">
+      <isinactive>F</isinactive>
+      <value>15</value>
+    </customvalue>
+    <customvalue scriptid="val_35357_2772245_352">
+      <isinactive>F</isinactive>
+      <value>16</value>
+    </customvalue>
+    <customvalue scriptid="val_35358_2772245_274">
+      <isinactive>F</isinactive>
+      <value>17</value>
+    </customvalue>
+    <customvalue scriptid="val_35359_2772245_854">
+      <isinactive>F</isinactive>
+      <value>18</value>
+    </customvalue>
+    <customvalue scriptid="val_35360_2772245_402">
+      <isinactive>F</isinactive>
+      <value>19</value>
+    </customvalue>
+    <customvalue scriptid="val_35361_2772245_191">
+      <isinactive>F</isinactive>
+      <value>20</value>
+    </customvalue>
+    <customvalue scriptid="val_35362_2772245_755">
+      <isinactive>F</isinactive>
+      <value>21</value>
+    </customvalue>
+    <customvalue scriptid="val_35363_2772245_266">
+      <isinactive>F</isinactive>
+      <value>22</value>
+    </customvalue>
+    <customvalue scriptid="val_35364_2772245_397">
+      <isinactive>F</isinactive>
+      <value>23</value>
+    </customvalue>
+    <customvalue scriptid="val_35365_2772245_814">
+      <isinactive>F</isinactive>
+      <value>24</value>
+    </customvalue>
+    <customvalue scriptid="val_35366_2772245_367">
+      <isinactive>F</isinactive>
+      <value>25</value>
+    </customvalue>
+    <customvalue scriptid="val_35367_2772245_847">
+      <isinactive>F</isinactive>
+      <value>26</value>
+    </customvalue>
+    <customvalue scriptid="val_35368_2772245_106">
+      <isinactive>F</isinactive>
+      <value>27</value>
+    </customvalue>
+    <customvalue scriptid="val_35369_2772245_815">
+      <isinactive>F</isinactive>
+      <value>28</value>
+    </customvalue>
+    <customvalue scriptid="val_35370_2772245_634">
+      <isinactive>F</isinactive>
+      <value>29</value>
+    </customvalue>
+    <customvalue scriptid="val_35371_2772245_484">
+      <isinactive>F</isinactive>
+      <value>30</value>
+    </customvalue>
+    <customvalue scriptid="val_35372_2772245_802">
+      <isinactive>F</isinactive>
+      <value>31</value>
+    </customvalue>
+    <customvalue scriptid="val_35373_2772245_689">
+      <isinactive>F</isinactive>
+      <value>32</value>
+    </customvalue>
+    <customvalue scriptid="val_35374_2772245_922">
+      <isinactive>F</isinactive>
+      <value>33</value>
+    </customvalue>
+    <customvalue scriptid="val_35375_2772245_609">
+      <isinactive>F</isinactive>
+      <value>34</value>
+    </customvalue>
+    <customvalue scriptid="val_35376_2772245_109">
+      <isinactive>F</isinactive>
+      <value>35</value>
+    </customvalue>
+    <customvalue scriptid="val_35377_2772245_390">
+      <isinactive>F</isinactive>
+      <value>36</value>
+    </customvalue>
+    <customvalue scriptid="val_35378_2772245_962">
+      <isinactive>F</isinactive>
+      <value>37</value>
+    </customvalue>
+    <customvalue scriptid="val_35379_2772245_947">
+      <isinactive>F</isinactive>
+      <value>38</value>
+    </customvalue>
+    <customvalue scriptid="val_35380_2772245_270">
+      <isinactive>F</isinactive>
+      <value>39</value>
+    </customvalue>
+    <customvalue scriptid="val_35381_2772245_625">
+      <isinactive>F</isinactive>
+      <value>40</value>
+    </customvalue>
+    <customvalue scriptid="val_35382_2772245_839">
+      <isinactive>F</isinactive>
+      <value>41</value>
+    </customvalue>
+    <customvalue scriptid="val_35383_2772245_673">
+      <isinactive>F</isinactive>
+      <value>42</value>
+    </customvalue>
+    <customvalue scriptid="val_35384_2772245_201">
+      <isinactive>F</isinactive>
+      <value>43</value>
+    </customvalue>
+    <customvalue scriptid="val_35385_2772245_193">
+      <isinactive>F</isinactive>
+      <value>44</value>
+    </customvalue>
+    <customvalue scriptid="val_35386_2772245_699">
+      <isinactive>F</isinactive>
+      <value>45</value>
+    </customvalue>
+    <customvalue scriptid="val_35387_2772245_943">
+      <isinactive>F</isinactive>
+      <value>46</value>
+    </customvalue>
+    <customvalue scriptid="val_35388_2772245_837">
+      <isinactive>F</isinactive>
+      <value>47</value>
+    </customvalue>
+    <customvalue scriptid="val_35389_2772245_343">
+      <isinactive>F</isinactive>
+      <value>48</value>
+    </customvalue>
+    <customvalue scriptid="val_35390_2772245_350">
+      <isinactive>F</isinactive>
+      <value>49</value>
+    </customvalue>
+    <customvalue scriptid="val_35391_2772245_884">
+      <isinactive>F</isinactive>
+      <value>50</value>
+    </customvalue>
+    <customvalue scriptid="val_35392_2772245_128">
+      <isinactive>F</isinactive>
+      <value>51</value>
+    </customvalue>
+    <customvalue scriptid="val_35393_2772245_798">
+      <isinactive>F</isinactive>
+      <value>52</value>
+    </customvalue>
+    <customvalue scriptid="val_35394_2772245_759">
+      <isinactive>F</isinactive>
+      <value>53</value>
+    </customvalue>
+    <customvalue scriptid="val_35395_2772245_538">
+      <isinactive>F</isinactive>
+      <value>54</value>
+    </customvalue>
+    <customvalue scriptid="val_35396_2772245_456">
+      <isinactive>F</isinactive>
+      <value>55</value>
+    </customvalue>
+    <customvalue scriptid="val_35397_2772245_954">
+      <isinactive>F</isinactive>
+      <value>56</value>
+    </customvalue>
+    <customvalue scriptid="val_35398_2772245_128">
+      <isinactive>F</isinactive>
+      <value>57</value>
+    </customvalue>
+    <customvalue scriptid="val_35399_2772245_497">
+      <isinactive>F</isinactive>
+      <value>58</value>
+    </customvalue>
+    <customvalue scriptid="val_35400_2772245_647">
+      <isinactive>F</isinactive>
+      <value>59</value>
+    </customvalue>
+    <customvalue scriptid="val_35401_2772245_951">
+      <isinactive>F</isinactive>
+      <value>60</value>
+    </customvalue>
+    <customvalue scriptid="val_35402_2772245_450">
+      <isinactive>F</isinactive>
+      <value>61</value>
+    </customvalue>
+    <customvalue scriptid="val_35403_2772245_101">
+      <isinactive>F</isinactive>
+      <value>62</value>
+    </customvalue>
+    <customvalue scriptid="val_35404_2772245_576">
+      <isinactive>F</isinactive>
+      <value>63</value>
+    </customvalue>
+    <customvalue scriptid="val_35405_2772245_334">
+      <isinactive>F</isinactive>
+      <value>64</value>
+    </customvalue>
+    <customvalue scriptid="val_35406_2772245_427">
+      <isinactive>F</isinactive>
+      <value>65</value>
+    </customvalue>
+    <customvalue scriptid="val_35407_2772245_438">
+      <isinactive>F</isinactive>
+      <value>66</value>
+    </customvalue>
+    <customvalue scriptid="val_35408_2772245_153">
+      <isinactive>F</isinactive>
+      <value>67</value>
+    </customvalue>
+    <customvalue scriptid="val_35409_2772245_641">
+      <isinactive>F</isinactive>
+      <value>68</value>
+    </customvalue>
+    <customvalue scriptid="val_35410_2772245_302">
+      <isinactive>F</isinactive>
+      <value>69</value>
+    </customvalue>
+    <customvalue scriptid="val_35411_2772245_585">
+      <isinactive>F</isinactive>
+      <value>70</value>
+    </customvalue>
+    <customvalue scriptid="val_35412_2772245_509">
+      <isinactive>F</isinactive>
+      <value>71</value>
+    </customvalue>
+    <customvalue scriptid="val_35413_2772245_281">
+      <isinactive>F</isinactive>
+      <value>72</value>
+    </customvalue>
+    <customvalue scriptid="val_35414_2772245_397">
+      <isinactive>F</isinactive>
+      <value>73</value>
+    </customvalue>
+    <customvalue scriptid="val_35415_2772245_108">
+      <isinactive>F</isinactive>
+      <value>74</value>
+    </customvalue>
+    <customvalue scriptid="val_35416_2772245_563">
+      <isinactive>F</isinactive>
+      <value>75</value>
+    </customvalue>
+    <customvalue scriptid="val_35417_2772245_301">
+      <isinactive>F</isinactive>
+      <value>76</value>
+    </customvalue>
+    <customvalue scriptid="val_35418_2772245_328">
+      <isinactive>F</isinactive>
+      <value>77</value>
+    </customvalue>
+    <customvalue scriptid="val_35419_2772245_253">
+      <isinactive>F</isinactive>
+      <value>78</value>
+    </customvalue>
+    <customvalue scriptid="val_35420_2772245_740">
+      <isinactive>F</isinactive>
+      <value>79</value>
+    </customvalue>
+    <customvalue scriptid="val_35421_2772245_543">
+      <isinactive>F</isinactive>
+      <value>80</value>
+    </customvalue>
+    <customvalue scriptid="val_35422_2772245_625">
+      <isinactive>F</isinactive>
+      <value>81</value>
+    </customvalue>
+    <customvalue scriptid="val_35423_2772245_475">
+      <isinactive>F</isinactive>
+      <value>82</value>
+    </customvalue>
+    <customvalue scriptid="val_35424_2772245_764">
+      <isinactive>F</isinactive>
+      <value>83</value>
+    </customvalue>
+    <customvalue scriptid="val_35425_2772245_972">
+      <isinactive>F</isinactive>
+      <value>84</value>
+    </customvalue>
+    <customvalue scriptid="val_35426_2772245_269">
+      <isinactive>F</isinactive>
+      <value>85</value>
+    </customvalue>
+    <customvalue scriptid="val_35427_2772245_460">
+      <isinactive>F</isinactive>
+      <value>86</value>
+    </customvalue>
+    <customvalue scriptid="val_35428_2772245_831">
+      <isinactive>F</isinactive>
+      <value>87</value>
+    </customvalue>
+    <customvalue scriptid="val_35429_2772245_349">
+      <isinactive>F</isinactive>
+      <value>88</value>
+    </customvalue>
+    <customvalue scriptid="val_35430_2772245_894">
+      <isinactive>F</isinactive>
+      <value>89</value>
+    </customvalue>
+    <customvalue scriptid="val_35431_2772245_332">
+      <isinactive>F</isinactive>
+      <value>90</value>
+    </customvalue>
+    <customvalue scriptid="val_35432_2772245_829">
+      <isinactive>F</isinactive>
+      <value>91</value>
+    </customvalue>
+    <customvalue scriptid="val_35433_2772245_914">
+      <isinactive>F</isinactive>
+      <value>92</value>
+    </customvalue>
+    <customvalue scriptid="val_35434_2772245_717">
+      <isinactive>F</isinactive>
+      <value>93</value>
+    </customvalue>
+    <customvalue scriptid="val_35435_2772245_803">
+      <isinactive>F</isinactive>
+      <value>94</value>
+    </customvalue>
+    <customvalue scriptid="val_35436_2772245_456">
+      <isinactive>F</isinactive>
+      <value>95</value>
+    </customvalue>
+    <customvalue scriptid="val_35437_2772245_685">
+      <isinactive>F</isinactive>
+      <value>96</value>
+    </customvalue>
+    <customvalue scriptid="val_35438_2772245_988">
+      <isinactive>F</isinactive>
+      <value>97</value>
+    </customvalue>
+    <customvalue scriptid="val_35439_2772245_966">
+      <isinactive>F</isinactive>
+      <value>98</value>
+    </customvalue>
+    <customvalue scriptid="val_35440_2772245_644">
+      <isinactive>F</isinactive>
+      <value>99</value>
+    </customvalue>
+    <customvalue scriptid="val_35441_2772245_958">
+      <isinactive>F</isinactive>
+      <value>100</value>
+    </customvalue>
+  </customvalues>
+</customlist>

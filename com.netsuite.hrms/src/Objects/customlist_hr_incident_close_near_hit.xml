@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hr_incident_close_near_hit">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Close call/Near hit</name>
+  <customvalues>
+    <customvalue scriptid="val_20606_9699878_925">
+      <isinactive>F</isinactive>
+      <value>Close call</value>
+    </customvalue>
+    <customvalue scriptid="val_20607_9699878_910">
+      <isinactive>F</isinactive>
+      <value>Near hit</value>
+    </customvalue>
+  </customvalues>
+</customlist>

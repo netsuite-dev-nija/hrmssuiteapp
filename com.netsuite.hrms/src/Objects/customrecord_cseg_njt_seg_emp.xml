@@ -1,0 +1,220 @@
+<customrecordtype scriptid="customrecord_cseg_njt_seg_emp">
+  <allowattachments>F</allowattachments>
+  <allowinlinedeleting>F</allowinlinedeleting>
+  <allowinlinedetaching>F</allowinlinedetaching>
+  <allowinlineediting>F</allowinlineediting>
+  <allowquickadd>F</allowquickadd>
+  <allowquicksearch>F</allowquicksearch>
+  <customsegment>[type=customsegment, scriptid=cseg_njt_seg_emp]</customsegment>
+  <enabledle>F</enabledle>
+  <enablekeywords>F</enablekeywords>
+  <enablemailmerge>F</enablemailmerge>
+  <enableoptimisticlocking>F</enableoptimisticlocking>
+  <enablesystemnotes>T</enablesystemnotes>
+  <icon></icon>
+  <iconbuiltin>T</iconbuiltin>
+  <iconindex></iconindex>
+  <includeinsearchmenu>F</includeinsearchmenu>
+  <showcreationdate>F</showcreationdate>
+  <showcreationdateonlist>F</showcreationdateonlist>
+  <showlastmodified>F</showlastmodified>
+  <showlastmodifiedonlist>F</showlastmodifiedonlist>
+  <shownotes>T</shownotes>
+  <showowner>F</showowner>
+  <showownerallowchange>F</showownerallowchange>
+  <showowneronlist>F</showowneronlist>
+  <instances>
+    <instance scriptid="val_38695_2772245_544">
+      <isinactive>F</isinactive>
+      <name>NJT00023 - Sara Sruthi</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_83240_2772245_393">
+      <isinactive>F</isinactive>
+      <name>NJT002-Kavya</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_83241_2772245_922">
+      <isinactive>F</isinactive>
+      <name>NJT003-Florence</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_83242_2772245_999">
+      <isinactive>F</isinactive>
+      <name>NIJA-Florence</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84369_2772245_585">
+      <isinactive>F</isinactive>
+      <name>1 - MATHEW PETER ABRAHAM</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84370_2772245_233">
+      <isinactive>F</isinactive>
+      <name>2 - JOGY VARGHESE</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84371_2772245_439">
+      <isinactive>F</isinactive>
+      <name>6 - ANIL ABRAHAM</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84372_2772245_485">
+      <isinactive>F</isinactive>
+      <name>8 - RAWATAWATTE PEIRIS SILVA</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84373_2772245_127">
+      <isinactive>F</isinactive>
+      <name>11 - ABU TAHER KABIR AHMED</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84374_2772245_897">
+      <isinactive>F</isinactive>
+      <name>17 - ELUVATHINGAL RAPPAI BENSAN</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84375_2772245_623">
+      <isinactive>F</isinactive>
+      <name>18 - ANTHONY CHARLES ATHAIDE</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84376_2772245_447">
+      <isinactive>F</isinactive>
+      <name>22 - SHAIKH NIZAMUDDIN SHAIKH MOHIUDDIN SHAIKH TAJUDDIN</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84377_2772245_700">
+      <isinactive>F</isinactive>
+      <name>24 - MUHAMMAD AWAIS MUHAMMAD ASHFAQ</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84378_2772245_584">
+      <isinactive>F</isinactive>
+      <name>26 - RAJAN THIRUKUNNU PARAMBIL VALLAN</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84379_2772245_707">
+      <isinactive>F</isinactive>
+      <name>33 - RAJ KUMAR BISHAN DASS</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84380_2772245_206">
+      <isinactive>F</isinactive>
+      <name>39 - TITUS MATHEW NERIYATTIL VARGHESE MATHAI</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84381_2772245_438">
+      <isinactive>F</isinactive>
+      <name>42 - REGINALD SUDATH SURENDRA HETTIGE DON</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84382_2772245_690">
+      <isinactive>F</isinactive>
+      <name>48 - SASHIKA DHANANJAYA KUMARA BANDARA</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84383_2772245_359">
+      <isinactive>F</isinactive>
+      <name>59 - SALIYA BANDARA RATHNAYAKA EKANAYAKA BANDARALAGE</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84384_2772245_637">
+      <isinactive>F</isinactive>
+      <name>65 - ANISH GOKHALE</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84385_2772245_963">
+      <isinactive>F</isinactive>
+      <name>66 - SARATH MOTTAMAL SREEDHARAN MARATHAN</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84386_2772245_593">
+      <isinactive>F</isinactive>
+      <name>67 - JIBIN THOMAS</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84387_2772245_519">
+      <isinactive>F</isinactive>
+      <name>68 - SYED MOHSIN ABBAS JAFFERY SYED NADEEM IQBAL</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84388_2772245_481">
+      <isinactive>F</isinactive>
+      <name>71 - AKMAL JAMSHED</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84389_2772245_701">
+      <isinactive>F</isinactive>
+      <name>74 - KIRTI MATHEW ABRAHAM GANPAT SADANAND GAVASKAR</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84390_2772245_577">
+      <isinactive>F</isinactive>
+      <name>75 - SHANMUGAM SENGENI</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84391_2772245_314">
+      <isinactive>F</isinactive>
+      <name>76 - SUMAN SHIVAN SHIVAN PANDIYAN PULAIYA</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84392_2772245_579">
+      <isinactive>F</isinactive>
+      <name>82 - SHARUKH BABBU KHAN</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84393_2772245_606">
+      <isinactive>F</isinactive>
+      <name>88 - VIMAL THOMAS THOMAS THAIKKATTIL PORINCHU</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84394_2772245_180">
+      <isinactive>F</isinactive>
+      <name>89 - DELNIE MEDEL AUSAN</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84395_2772245_667">
+      <isinactive>F</isinactive>
+      <name>37 - YASAR ARFAT MUHAMMAD AFZAL</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84396_2772245_924">
+      <isinactive>F</isinactive>
+      <name>58 - HAFIZ MUHAMMAD RAUF MUHAMMAD ASLAM</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84397_2772245_377">
+      <isinactive>F</isinactive>
+      <name>69 - MUHAMMAD SHOAIB IJAZ QAZI MUHAMMAD IJAZ HUSSAIN</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_84398_2772245_168">
+      <isinactive>F</isinactive>
+      <name>83 - SAM ALUMKAL THAMPI THAMPI VARGHESE</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_99706_2772245_468">
+      <isinactive>F</isinactive>
+      <name>NJT00024 - NJT  Test Sundari</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_100330_2772245_770">
+      <isinactive>F</isinactive>
+      <name>4587215 - NJT test</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_100363_2772245_908">
+      <isinactive>F</isinactive>
+      <name>Abdullah Asmari - abdul</name>
+      <parent></parent>
+    </instance>
+  </instances>
+  <links>
+    <link>
+      <linkcategory>BASICSETUPCOMPANY</linkcategory>
+      <linklabel></linklabel>
+      <linktasktype>LIST</linktasktype>
+    </link>
+  </links>
+</customrecordtype>

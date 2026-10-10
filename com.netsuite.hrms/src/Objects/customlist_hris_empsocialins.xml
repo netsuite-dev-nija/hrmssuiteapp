@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_empsocialins">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Social Insurance</name>
+  <customvalues>
+    <customvalue scriptid="val_20627_2772245_275">
+      <isinactive>F</isinactive>
+      <value>GOSI</value>
+    </customvalue>
+    <customvalue scriptid="val_20628_2772245_504">
+      <isinactive>F</isinactive>
+      <value>PASI</value>
+    </customvalue>
+    <customvalue scriptid="val_20629_2772245_644">
+      <isinactive>F</isinactive>
+      <value>PENSION FUND</value>
+    </customvalue>
+    <customvalue scriptid="val_20630_2772245_625">
+      <isinactive>F</isinactive>
+      <value>SOCIAL SECURITY</value>
+    </customvalue>
+  </customvalues>
+</customlist>

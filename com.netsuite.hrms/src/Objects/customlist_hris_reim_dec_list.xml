@@ -1,0 +1,32 @@
+<customlist scriptid="customlist_hris_reim_dec_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>DESCRIPTION LIST</name>
+  <customvalues>
+    <customvalue scriptid="val_44345211_5250636_sb2_947">
+      <isinactive>F</isinactive>
+      <value>Fuel expense</value>
+    </customvalue>
+    <customvalue scriptid="val_44345212_5250636_sb2_117">
+      <isinactive>F</isinactive>
+      <value>Hotel expenses</value>
+    </customvalue>
+    <customvalue scriptid="val_44345213_5250636_sb2_346">
+      <isinactive>F</isinactive>
+      <value>Outstation Food allowance</value>
+    </customvalue>
+    <customvalue scriptid="val_44345214_5250636_sb2_431">
+      <isinactive>F</isinactive>
+      <value>Ticket expenses</value>
+    </customvalue>
+    <customvalue scriptid="val_44345215_5250636_sb2_521">
+      <isinactive>F</isinactive>
+      <value>Transportation expense</value>
+    </customvalue>
+    <customvalue scriptid="val_44345216_5250636_sb2_923">
+      <isinactive>F</isinactive>
+      <value>Others</value>
+    </customvalue>
+  </customvalues>
+</customlist>

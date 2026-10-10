@@ -1,0 +1,104 @@
+<customlist scriptid="customlist_hris_year">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Year</name>
+  <customvalues>
+    <customvalue scriptid="val_28038_2772245_710">
+      <isinactive>F</isinactive>
+      <value>2001</value>
+    </customvalue>
+    <customvalue scriptid="val_28039_2772245_543">
+      <isinactive>F</isinactive>
+      <value>2002</value>
+    </customvalue>
+    <customvalue scriptid="val_28040_2772245_487">
+      <isinactive>F</isinactive>
+      <value>2003</value>
+    </customvalue>
+    <customvalue scriptid="val_28041_2772245_122">
+      <isinactive>F</isinactive>
+      <value>2004</value>
+    </customvalue>
+    <customvalue scriptid="val_28042_2772245_637">
+      <isinactive>F</isinactive>
+      <value>2005</value>
+    </customvalue>
+    <customvalue scriptid="val_28043_2772245_985">
+      <isinactive>F</isinactive>
+      <value>2006</value>
+    </customvalue>
+    <customvalue scriptid="val_28044_2772245_269">
+      <isinactive>F</isinactive>
+      <value>2007</value>
+    </customvalue>
+    <customvalue scriptid="val_28045_2772245_404">
+      <isinactive>F</isinactive>
+      <value>2008</value>
+    </customvalue>
+    <customvalue scriptid="val_28046_2772245_190">
+      <isinactive>F</isinactive>
+      <value>2009</value>
+    </customvalue>
+    <customvalue scriptid="val_28047_2772245_220">
+      <isinactive>F</isinactive>
+      <value>2010</value>
+    </customvalue>
+    <customvalue scriptid="val_28048_2772245_225">
+      <isinactive>F</isinactive>
+      <value>2011</value>
+    </customvalue>
+    <customvalue scriptid="val_28049_2772245_794">
+      <isinactive>F</isinactive>
+      <value>2012</value>
+    </customvalue>
+    <customvalue scriptid="val_28050_2772245_372">
+      <isinactive>F</isinactive>
+      <value>2013</value>
+    </customvalue>
+    <customvalue scriptid="val_28051_2772245_757">
+      <isinactive>F</isinactive>
+      <value>2014</value>
+    </customvalue>
+    <customvalue scriptid="val_28052_2772245_502">
+      <isinactive>F</isinactive>
+      <value>2015</value>
+    </customvalue>
+    <customvalue scriptid="val_28053_2772245_475">
+      <isinactive>F</isinactive>
+      <value>2016</value>
+    </customvalue>
+    <customvalue scriptid="val_28054_2772245_750">
+      <isinactive>F</isinactive>
+      <value>2017</value>
+    </customvalue>
+    <customvalue scriptid="val_28055_2772245_104">
+      <isinactive>F</isinactive>
+      <value>2018</value>
+    </customvalue>
+    <customvalue scriptid="val_28056_2772245_137">
+      <isinactive>F</isinactive>
+      <value>2019</value>
+    </customvalue>
+    <customvalue scriptid="val_28057_2772245_523">
+      <isinactive>F</isinactive>
+      <value>2020</value>
+    </customvalue>
+    <customvalue scriptid="val_28058_2772245_539">
+      <isinactive>F</isinactive>
+      <value>2021</value>
+    </customvalue>
+    <customvalue scriptid="val_28059_2772245_221">
+      <isinactive>F</isinactive>
+      <value>2022</value>
+    </customvalue>
+    <customvalue scriptid="val_28060_2772245_930">
+      <isinactive>F</isinactive>
+      <value>2023</value>
+    </customvalue>
+    <customvalue scriptid="val_28061_2772245_118">
+      <isinactive>F</isinactive>
+      <value>2024</value>
+    </customvalue>
+  </customvalues>
+</customlist>

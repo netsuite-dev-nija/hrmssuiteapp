@@ -1,0 +1,68 @@
+<customlist scriptid="customlist_hris_timesheet_allowance">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Timesheet Allowances</name>
+  <customvalues>
+    <customvalue scriptid="val_20649_2772245_217">
+      <isinactive>F</isinactive>
+      <value>Break Fast Allowance</value>
+    </customvalue>
+    <customvalue scriptid="val_20650_2772245_254">
+      <isinactive>F</isinactive>
+      <value>Lunch Allowance</value>
+    </customvalue>
+    <customvalue scriptid="val_20651_2772245_238">
+      <isinactive>F</isinactive>
+      <value>Evening Snacks</value>
+    </customvalue>
+    <customvalue scriptid="val_20652_2772245_628">
+      <isinactive>F</isinactive>
+      <value>Dinner</value>
+    </customvalue>
+    <customvalue scriptid="val_20653_2772245_805">
+      <isinactive>F</isinactive>
+      <value>Trip1 Allowance</value>
+    </customvalue>
+    <customvalue scriptid="val_20654_2772245_588">
+      <isinactive>F</isinactive>
+      <value>Trip 2 Allowance</value>
+    </customvalue>
+    <customvalue scriptid="val_20655_2772245_996">
+      <isinactive>F</isinactive>
+      <value>Desert Trip Allowance</value>
+    </customvalue>
+    <customvalue scriptid="val_20656_2772245_819">
+      <isinactive>F</isinactive>
+      <value>Travel Time Allowance</value>
+    </customvalue>
+    <customvalue scriptid="val_20657_2772245_126">
+      <isinactive>F</isinactive>
+      <value>Saudi Public Holiday</value>
+    </customvalue>
+    <customvalue scriptid="val_20658_2772245_349">
+      <isinactive>F</isinactive>
+      <value>Call Out Allowance</value>
+    </customvalue>
+    <customvalue scriptid="val_20659_2772245_296">
+      <isinactive>F</isinactive>
+      <value>Onshore Local</value>
+    </customvalue>
+    <customvalue scriptid="val_20660_2772245_954">
+      <isinactive>F</isinactive>
+      <value>Offshore Outstation</value>
+    </customvalue>
+    <customvalue scriptid="val_20661_2772245_362">
+      <isinactive>F</isinactive>
+      <value>Rental Land Rig</value>
+    </customvalue>
+    <customvalue scriptid="val_20662_2772245_214">
+      <isinactive>F</isinactive>
+      <value>Rental Offshore Rig</value>
+    </customvalue>
+    <customvalue scriptid="val_20663_2772245_721">
+      <isinactive>F</isinactive>
+      <value>ADCO Onshore Allowance</value>
+    </customvalue>
+  </customvalues>
+</customlist>

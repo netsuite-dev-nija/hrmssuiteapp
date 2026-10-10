@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_timing_type_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Timing Type list</name>
+  <customvalues>
+    <customvalue scriptid="val_88688_2772245_450">
+      <isinactive>F</isinactive>
+      <value>Normal</value>
+    </customvalue>
+    <customvalue scriptid="val_88689_2772245_513">
+      <isinactive>F</isinactive>
+      <value>Special</value>
+    </customvalue>
+  </customvalues>
+</customlist>

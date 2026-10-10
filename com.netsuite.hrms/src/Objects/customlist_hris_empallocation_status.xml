@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_empallocation_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRMSEmployee Allocation Status</name>
+  <customvalues>
+    <customvalue scriptid="val_31017_2772245_742">
+      <isinactive>F</isinactive>
+      <value>Active</value>
+    </customvalue>
+    <customvalue scriptid="val_31018_2772245_691">
+      <isinactive>F</isinactive>
+      <value>In Active</value>
+    </customvalue>
+  </customvalues>
+</customlist>

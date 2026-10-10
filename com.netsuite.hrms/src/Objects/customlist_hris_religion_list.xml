@@ -1,0 +1,36 @@
+<customlist scriptid="customlist_hris_religion_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Religion List</name>
+  <customvalues>
+    <customvalue scriptid="val_18925_2772245_478">
+      <isinactive>F</isinactive>
+      <value>Muslim</value>
+    </customvalue>
+    <customvalue scriptid="val_18926_2772245_621">
+      <isinactive>F</isinactive>
+      <value>Non-Muslim</value>
+    </customvalue>
+    <customvalue scriptid="val_18927_2772245_139">
+      <isinactive>T</isinactive>
+      <value>Not Defined</value>
+    </customvalue>
+    <customvalue scriptid="val_18928_2772245_371">
+      <isinactive>T</isinactive>
+      <value>Hindu</value>
+    </customvalue>
+    <customvalue scriptid="val_18929_2772245_797">
+      <isinactive>T</isinactive>
+      <value>Christian</value>
+    </customvalue>
+    <customvalue scriptid="val_18930_2772245_159">
+      <isinactive>T</isinactive>
+      <value>Roman Catholic</value>
+    </customvalue>
+    <customvalue scriptid="val_18931_2772245_478">
+      <isinactive>T</isinactive>
+      <value>Others</value>
+    </customvalue>
+  </customvalues>
+</customlist>

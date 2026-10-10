@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_hr_interview_rounds">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Round</name>
+  <customvalues>
+    <customvalue scriptid="val_27153_2772245_257">
+      <isinactive>F</isinactive>
+      <value>First</value>
+    </customvalue>
+    <customvalue scriptid="val_27154_2772245_519">
+      <isinactive>F</isinactive>
+      <value>Second</value>
+    </customvalue>
+    <customvalue scriptid="val_27155_2772245_388">
+      <isinactive>F</isinactive>
+      <value>Final</value>
+    </customvalue>
+    <customvalue scriptid="val_29065_2772245_340">
+      <isinactive>F</isinactive>
+      <value>fourth</value>
+    </customvalue>
+    <customvalue scriptid="val_29346_2772245_256">
+      <isinactive>F</isinactive>
+      <value>Preetha</value>
+    </customvalue>
+  </customvalues>
+</customlist>

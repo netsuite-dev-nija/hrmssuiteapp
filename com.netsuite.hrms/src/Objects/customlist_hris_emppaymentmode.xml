@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_hris_emppaymentmode">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Employee Payment Mode</name>
+  <customvalues>
+    <customvalue scriptid="val_100415_2772245_407">
+      <isinactive>F</isinactive>
+      <value>Cash</value>
+    </customvalue>
+    <customvalue scriptid="val_100416_2772245_109">
+      <isinactive>F</isinactive>
+      <value>WPS</value>
+    </customvalue>
+    <customvalue scriptid="val_100417_2772245_931">
+      <isinactive>F</isinactive>
+      <value>Kamelpay</value>
+    </customvalue>
+    <customvalue scriptid="val_100418_2772245_159">
+      <isinactive>F</isinactive>
+      <value>Exchange-Al Razouki</value>
+    </customvalue>
+    <customvalue scriptid="val_100419_2772245_435">
+      <isinactive>F</isinactive>
+      <value>Exchange-Al Fardan</value>
+    </customvalue>
+  </customvalues>
+</customlist>

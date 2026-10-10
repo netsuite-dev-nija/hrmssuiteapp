@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_njt_bank_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Bank List</name>
+  <customvalues>
+    <customvalue scriptid="val_994607_6765937_780">
+      <isinactive>F</isinactive>
+      <value>ADCB</value>
+    </customvalue>
+    <customvalue scriptid="val_1015762_6765937_800">
+      <isinactive>F</isinactive>
+      <value>TEST RAK</value>
+    </customvalue>
+  </customvalues>
+</customlist>

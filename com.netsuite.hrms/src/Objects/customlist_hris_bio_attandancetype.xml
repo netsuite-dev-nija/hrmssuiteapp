@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_bio_attandancetype">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Bio Attendance Type</name>
+  <customvalues>
+    <customvalue scriptid="val_84324_2772245_906">
+      <isinactive>F</isinactive>
+      <value>AT</value>
+    </customvalue>
+    <customvalue scriptid="val_84325_2772245_494">
+      <isinactive>F</isinactive>
+      <value>OT</value>
+    </customvalue>
+  </customvalues>
+</customlist>

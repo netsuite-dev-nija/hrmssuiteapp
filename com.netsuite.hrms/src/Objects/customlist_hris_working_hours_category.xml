@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_working_hours_category">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>working hours category</name>
+  <customvalues>
+    <customvalue scriptid="val_22629_2772245_362">
+      <isinactive>F</isinactive>
+      <value>Normal</value>
+    </customvalue>
+    <customvalue scriptid="val_22630_2772245_264">
+      <isinactive>F</isinactive>
+      <value>Ramadan</value>
+    </customvalue>
+    <customvalue scriptid="val_22631_2772245_384">
+      <isinactive>F</isinactive>
+      <value>Summer</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_labour_contract_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Labour Contract type list</name>
+  <customvalues>
+    <customvalue scriptid="val_18909_2772245_860">
+      <isinactive>F</isinactive>
+      <value>Limited Contract</value>
+    </customvalue>
+    <customvalue scriptid="val_18910_2772245_155">
+      <isinactive>F</isinactive>
+      <value>Unlimited Contract</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,36 @@
+<customlist scriptid="customlist_hris_travel_model_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Travel model list</name>
+  <customvalues>
+    <customvalue scriptid="val_20677_2772245_821">
+      <isinactive>F</isinactive>
+      <value>Air Ticket</value>
+    </customvalue>
+    <customvalue scriptid="val_20678_2772245_926">
+      <isinactive>F</isinactive>
+      <value>Rental Car</value>
+    </customvalue>
+    <customvalue scriptid="val_20679_2772245_598">
+      <isinactive>F</isinactive>
+      <value>Bus</value>
+    </customvalue>
+    <customvalue scriptid="val_20680_2772245_660">
+      <isinactive>F</isinactive>
+      <value>Train</value>
+    </customvalue>
+    <customvalue scriptid="val_20681_2772245_855">
+      <isinactive>F</isinactive>
+      <value>Travels</value>
+    </customvalue>
+    <customvalue scriptid="val_20682_2772245_400">
+      <isinactive>F</isinactive>
+      <value>Own Vehicle</value>
+    </customvalue>
+    <customvalue scriptid="val_20683_2772245_743">
+      <isinactive>F</isinactive>
+      <value>Others(Please Specify)</value>
+    </customvalue>
+  </customvalues>
+</customlist>

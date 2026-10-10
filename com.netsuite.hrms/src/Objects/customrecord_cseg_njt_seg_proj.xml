@@ -1,0 +1,90 @@
+<customrecordtype scriptid="customrecord_cseg_njt_seg_proj">
+  <allowattachments>F</allowattachments>
+  <allowinlinedeleting>F</allowinlinedeleting>
+  <allowinlinedetaching>F</allowinlinedetaching>
+  <allowinlineediting>F</allowinlineediting>
+  <allowquickadd>F</allowquickadd>
+  <allowquicksearch>F</allowquicksearch>
+  <customsegment>[type=customsegment, scriptid=cseg_njt_seg_proj]</customsegment>
+  <enabledle>F</enabledle>
+  <enablekeywords>F</enablekeywords>
+  <enablemailmerge>F</enablemailmerge>
+  <enableoptimisticlocking>F</enableoptimisticlocking>
+  <enablesystemnotes>T</enablesystemnotes>
+  <icon></icon>
+  <iconbuiltin>T</iconbuiltin>
+  <iconindex></iconindex>
+  <includeinsearchmenu>F</includeinsearchmenu>
+  <showcreationdate>F</showcreationdate>
+  <showcreationdateonlist>F</showcreationdateonlist>
+  <showlastmodified>F</showlastmodified>
+  <showlastmodifiedonlist>F</showlastmodifiedonlist>
+  <shownotes>T</shownotes>
+  <showowner>F</showowner>
+  <showownerallowchange>F</showownerallowchange>
+  <showowneronlist>F</showowneronlist>
+  <instances>
+    <instance scriptid="val_36438_2772245_613">
+      <isinactive>F</isinactive>
+      <name>AL ARABIA</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_36439_2772245_787">
+      <isinactive>F</isinactive>
+      <name>Aster Clinic</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_36440_2772245_602">
+      <isinactive>F</isinactive>
+      <name>Test</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_36441_2772245_114">
+      <isinactive>F</isinactive>
+      <name>SiteA</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_37517_2772245_244">
+      <isinactive>F</isinactive>
+      <name>Trading</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_37518_2772245_719">
+      <isinactive>F</isinactive>
+      <name>Production</name>
+      <parent>[scriptid=customrecord_cseg_njt_seg_proj.val_37517_2772245_244]</parent>
+    </instance>
+    <instance scriptid="val_37521_2772245_782">
+      <isinactive>F</isinactive>
+      <name>Transport</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_37533_2772245_128">
+      <isinactive>F</isinactive>
+      <name>VM PROJECT</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_38222_2772245_328">
+      <isinactive>F</isinactive>
+      <name>STEEL COMPANY</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_38315_2772245_730">
+      <isinactive>F</isinactive>
+      <name>Hospitals</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_83544_2772245_485">
+      <isinactive>F</isinactive>
+      <name>HARVEST SITE</name>
+      <parent></parent>
+    </instance>
+  </instances>
+  <links>
+    <link>
+      <linkcategory>BASICSETUPCOMPANY</linkcategory>
+      <linklabel></linklabel>
+      <linktasktype>LIST</linktasktype>
+    </link>
+  </links>
+</customrecordtype>

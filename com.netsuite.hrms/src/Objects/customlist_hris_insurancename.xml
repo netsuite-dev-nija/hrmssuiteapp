@@ -1,0 +1,56 @@
+<customlist scriptid="customlist_hris_insurancename">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Insurance Name</name>
+  <customvalues>
+    <customvalue scriptid="val_20574_2772245_729">
+      <isinactive>F</isinactive>
+      <value>Al Buhaira National Insurance Company (ABNIC)</value>
+    </customvalue>
+    <customvalue scriptid="val_20575_2772245_615">
+      <isinactive>F</isinactive>
+      <value>Sharjah Insurance (SICO)</value>
+    </customvalue>
+    <customvalue scriptid="val_20576_2772245_513">
+      <isinactive>F</isinactive>
+      <value>Alliance Insurance</value>
+    </customvalue>
+    <customvalue scriptid="val_20577_2772245_393">
+      <isinactive>F</isinactive>
+      <value>Al Fujairah National Insurance Co. (AFNIC)</value>
+    </customvalue>
+    <customvalue scriptid="val_20578_2772245_362">
+      <isinactive>F</isinactive>
+      <value>Lifeline TPA</value>
+    </customvalue>
+    <customvalue scriptid="val_20579_2772245_280">
+      <isinactive>F</isinactive>
+      <value>Oman Insurance Company</value>
+    </customvalue>
+    <customvalue scriptid="val_20580_2772245_682">
+      <isinactive>F</isinactive>
+      <value>Alia Insurance Broker LLC</value>
+    </customvalue>
+    <customvalue scriptid="val_20581_2772245_701">
+      <isinactive>F</isinactive>
+      <value>Al Wathba Insurance</value>
+    </customvalue>
+    <customvalue scriptid="val_20582_2772245_776">
+      <isinactive>F</isinactive>
+      <value>Afia Insurance</value>
+    </customvalue>
+    <customvalue scriptid="val_20583_2772245_650">
+      <isinactive>F</isinactive>
+      <value>Al-Ain Ahlia Insurance Company</value>
+    </customvalue>
+    <customvalue scriptid="val_20584_2772245_280">
+      <isinactive>F</isinactive>
+      <value>Al Dhafra</value>
+    </customvalue>
+    <customvalue scriptid="val_20585_2772245_166">
+      <isinactive>F</isinactive>
+      <value>Takaful</value>
+    </customvalue>
+  </customvalues>
+</customlist>

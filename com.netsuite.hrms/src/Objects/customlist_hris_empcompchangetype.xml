@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_hris_empcompchangetype">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Emp Comp Change Type</name>
+  <customvalues>
+    <customvalue scriptid="val_20567_2772245_313">
+      <isinactive>F</isinactive>
+      <value>Alignment</value>
+    </customvalue>
+    <customvalue scriptid="val_20568_2772245_142">
+      <isinactive>F</isinactive>
+      <value>Historical</value>
+    </customvalue>
+    <customvalue scriptid="val_20569_2772245_195">
+      <isinactive>F</isinactive>
+      <value>Increment</value>
+    </customvalue>
+    <customvalue scriptid="val_20570_2772245_159">
+      <isinactive>F</isinactive>
+      <value>New</value>
+    </customvalue>
+    <customvalue scriptid="val_20571_2772245_578">
+      <isinactive>F</isinactive>
+      <value>Restructure</value>
+    </customvalue>
+  </customvalues>
+</customlist>

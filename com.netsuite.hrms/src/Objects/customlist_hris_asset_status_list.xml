@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_asset_status_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Asset Status</name>
+  <customvalues>
+    <customvalue scriptid="val_26906_2772245_723">
+      <isinactive>F</isinactive>
+      <value>Available</value>
+    </customvalue>
+    <customvalue scriptid="val_26927_2772245_506">
+      <isinactive>F</isinactive>
+      <value>Allocated</value>
+    </customvalue>
+    <customvalue scriptid="val_26928_2772245_752">
+      <isinactive>F</isinactive>
+      <value>Disposed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

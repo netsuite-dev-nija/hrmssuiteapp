@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_visastage">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Visa Stage</name>
+  <customvalues>
+    <customvalue scriptid="val_34243_2772245_231">
+      <isinactive>F</isinactive>
+      <value>New</value>
+    </customvalue>
+    <customvalue scriptid="val_34244_2772245_602">
+      <isinactive>F</isinactive>
+      <value>Renewal</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,214 @@
+<customrecordtype scriptid="customrecord_hris_emp_leave_type_master">
+  <accesstype>CUSTRECORDENTRYPERM</accesstype>
+  <aidescription></aidescription>
+  <allowattachments>T</allowattachments>
+  <allowinlinedeleting>F</allowinlinedeleting>
+  <allowinlinedetaching>T</allowinlinedetaching>
+  <allowinlineediting>F</allowinlineediting>
+  <allowmobileaccess>F</allowmobileaccess>
+  <allownumberingoverride>F</allownumberingoverride>
+  <allowquickadd>T</allowquickadd>
+  <allowquicksearch>F</allowquicksearch>
+  <allowuiaccess>T</allowuiaccess>
+  <customsegment></customsegment>
+  <description></description>
+  <enabledle>T</enabledle>
+  <enablekeywords>T</enablekeywords>
+  <enablemailmerge>F</enablemailmerge>
+  <enablenametranslation>F</enablenametranslation>
+  <enablenumbering>F</enablenumbering>
+  <enableoptimisticlocking>T</enableoptimisticlocking>
+  <enablesystemnotes>T</enablesystemnotes>
+  <hierarchical>F</hierarchical>
+  <icon></icon>
+  <iconbuiltin>T</iconbuiltin>
+  <iconindex></iconindex>
+  <includeinsearchmenu>T</includeinsearchmenu>
+  <includename>T</includename>
+  <isinactive>F</isinactive>
+  <isordered>F</isordered>
+  <numberinginit></numberinginit>
+  <numberingmindigits></numberingmindigits>
+  <numberingprefix></numberingprefix>
+  <numberingsuffix></numberingsuffix>
+  <recordname>HRIS Leave Type Master</recordname>
+  <showcreationdate>F</showcreationdate>
+  <showcreationdateonlist>F</showcreationdateonlist>
+  <showid>F</showid>
+  <showlastmodified>F</showlastmodified>
+  <showlastmodifiedonlist>F</showlastmodifiedonlist>
+  <shownotes>T</shownotes>
+  <showowner>F</showowner>
+  <showownerallowchange>F</showownerallowchange>
+  <showowneronlist>F</showowneronlist>
+  <customrecordcustomfields>
+    <customrecordcustomfield scriptid="custrecord_hris_emp_short_code">
+      <accesslevel>2</accesslevel>
+      <aidescription></aidescription>
+      <allowquickadd>F</allowquickadd>
+      <applyformatting>F</applyformatting>
+      <checkspelling>F</checkspelling>
+      <defaultchecked>F</defaultchecked>
+      <defaultselection></defaultselection>
+      <defaultvalue></defaultvalue>
+      <description></description>
+      <displayheight></displayheight>
+      <displaytype>NORMAL</displaytype>
+      <displaywidth></displaywidth>
+      <dynamicdefault></dynamicdefault>
+      <enabletextenhance>F</enabletextenhance>
+      <encryptatrest>F</encryptatrest>
+      <fieldtype>TEXT</fieldtype>
+      <globalsearch>F</globalsearch>
+      <help></help>
+      <isformula>F</isformula>
+      <ismandatory>F</ismandatory>
+      <isparent>F</isparent>
+      <label>Short Code</label>
+      <linktext></linktext>
+      <maxlength></maxlength>
+      <maxvalue></maxvalue>
+      <minvalue></minvalue>
+      <onparentdelete></onparentdelete>
+      <parentsubtab></parentsubtab>
+      <rolerestrict>F</rolerestrict>
+      <searchcomparefield></searchcomparefield>
+      <searchdefault></searchdefault>
+      <searchlevel>2</searchlevel>
+      <selectrecordtype></selectrecordtype>
+      <showinlist>T</showinlist>
+      <sourcefilterby></sourcefilterby>
+      <sourcefrom></sourcefrom>
+      <sourcelist></sourcelist>
+      <storevalue>T</storevalue>
+      <subtab></subtab>
+    </customrecordcustomfield>
+    <customrecordcustomfield scriptid="custrecord_hris_leavetype_oldinternalid">
+      <accesslevel>2</accesslevel>
+      <aidescription></aidescription>
+      <allowquickadd>F</allowquickadd>
+      <applyformatting>F</applyformatting>
+      <checkspelling>F</checkspelling>
+      <defaultchecked>F</defaultchecked>
+      <defaultselection></defaultselection>
+      <defaultvalue></defaultvalue>
+      <description></description>
+      <displayheight></displayheight>
+      <displaytype>NORMAL</displaytype>
+      <displaywidth></displaywidth>
+      <dynamicdefault></dynamicdefault>
+      <enabletextenhance>F</enabletextenhance>
+      <encryptatrest>F</encryptatrest>
+      <fieldtype>TEXT</fieldtype>
+      <globalsearch>F</globalsearch>
+      <help></help>
+      <isformula>F</isformula>
+      <ismandatory>F</ismandatory>
+      <isparent>F</isparent>
+      <label>Old Internal Id</label>
+      <linktext></linktext>
+      <maxlength></maxlength>
+      <maxvalue></maxvalue>
+      <minvalue></minvalue>
+      <onparentdelete></onparentdelete>
+      <parentsubtab></parentsubtab>
+      <rolerestrict>F</rolerestrict>
+      <searchcomparefield></searchcomparefield>
+      <searchdefault></searchdefault>
+      <searchlevel>2</searchlevel>
+      <selectrecordtype></selectrecordtype>
+      <showinlist>T</showinlist>
+      <sourcefilterby></sourcefilterby>
+      <sourcefrom></sourcefrom>
+      <sourcelist></sourcelist>
+      <storevalue>T</storevalue>
+      <subtab></subtab>
+    </customrecordcustomfield>
+  </customrecordcustomfields>
+  <instances>
+    <instance scriptid="val_19058_2772245_628">
+      <custrecord_hris_emp_short_code>AL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Annual Leave</name>
+    </instance>
+    <instance scriptid="val_19059_2772245_767">
+      <custrecord_hris_emp_short_code>Comp Off</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Compassionate Leave</name>
+    </instance>
+    <instance scriptid="val_19060_2772245_710">
+      <custrecord_hris_emp_short_code>EL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Emergency Leave</name>
+    </instance>
+    <instance scriptid="val_19061_2772245_854">
+      <custrecord_hris_emp_short_code>HL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Haj Leave</name>
+    </instance>
+    <instance scriptid="val_19062_2772245_221">
+      <custrecord_hris_emp_short_code>ML</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Maternity Leave</name>
+    </instance>
+    <instance scriptid="val_19063_2772245_120">
+      <custrecord_hris_emp_short_code>PL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Paid Leave</name>
+    </instance>
+    <instance scriptid="val_19064_2772245_129">
+      <custrecord_hris_emp_short_code>PL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Paternity Leave</name>
+    </instance>
+    <instance scriptid="val_19065_2772245_964">
+      <custrecord_hris_emp_short_code>RL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Rotational leave</name>
+    </instance>
+    <instance scriptid="val_19066_2772245_506">
+      <custrecord_hris_emp_short_code>SL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Sick Leave</name>
+    </instance>
+    <instance scriptid="val_19067_2772245_434">
+      <custrecord_hris_emp_short_code>SPECIAL LEAVE</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>SPECIAL LEAVE</name>
+    </instance>
+    <instance scriptid="val_19068_2772245_296">
+      <custrecord_hris_emp_short_code>SL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Study Leave</name>
+    </instance>
+    <instance scriptid="val_19069_2772245_791">
+      <custrecord_hris_emp_short_code>UL</custrecord_hris_emp_short_code>
+      <custrecord_hris_leavetype_oldinternalid></custrecord_hris_leavetype_oldinternalid>
+      <isinactive>F</isinactive>
+      <name>Unpaid Leave</name>
+    </instance>
+  </instances>
+  <permissions>
+    <permission>
+      <permittedlevel>FULL</permittedlevel>
+      <permittedrole>[scriptid=customrole_hris_hr_admin]</permittedrole>
+      <restriction></restriction>
+    </permission>
+    <permission>
+      <permittedlevel>FULL</permittedlevel>
+      <permittedrole>[scriptid=customrole_hris_admin]</permittedrole>
+      <restriction></restriction>
+    </permission>
+  </permissions>
+</customrecordtype>

@@ -1,0 +1,76 @@
+<customlist scriptid="customlist_hris_empweeklyoffcriteria">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Weekly Off Criteria</name>
+  <customvalues>
+    <customvalue scriptid="val_26648_2608638_527">
+      <isinactive>F</isinactive>
+      <value>Weekly Off Friday and Saturday</value>
+    </customvalue>
+    <customvalue scriptid="val_26649_2608638_112">
+      <isinactive>F</isinactive>
+      <value>Weekly Off and Alternate Saturday</value>
+    </customvalue>
+    <customvalue scriptid="val_44294219_5250636_sb2_227">
+      <isinactive>F</isinactive>
+      <value>Weekly Off </value>
+    </customvalue>
+    <customvalue scriptid="val_19148_2772245_807">
+      <isinactive>F</isinactive>
+      <value>Weekly Off once in two years</value>
+    </customvalue>
+    <customvalue scriptid="val_19149_2772245_352">
+      <isinactive>F</isinactive>
+      <value>Not Defined</value>
+    </customvalue>
+    <customvalue scriptid="val_19150_2772245_620">
+      <isinactive>F</isinactive>
+      <value>RT - Annual Paid (5mon - 1mon)</value>
+    </customvalue>
+    <customvalue scriptid="val_19151_2772245_253">
+      <isinactive>F</isinactive>
+      <value>RT - Annual Unpaid (5mon - 1mon)</value>
+    </customvalue>
+    <customvalue scriptid="val_19152_2772245_339">
+      <isinactive>F</isinactive>
+      <value>RT - Offshore (3mon - 1mon)</value>
+    </customvalue>
+    <customvalue scriptid="val_19153_2772245_541">
+      <isinactive>F</isinactive>
+      <value>RT - Workshop (6mon - 1mon)</value>
+    </customvalue>
+    <customvalue scriptid="val_19154_2772245_490">
+      <isinactive>F</isinactive>
+      <value>RT - ADCO Onshore (5mon - 1mon)</value>
+    </customvalue>
+    <customvalue scriptid="val_19155_2772245_942">
+      <isinactive>F</isinactive>
+      <value>RT - ADMA (42days - 21days)</value>
+    </customvalue>
+    <customvalue scriptid="val_19156_2772245_368">
+      <isinactive>F</isinactive>
+      <value>RT - ADNOC - Onshore (5mon- 1mon)</value>
+    </customvalue>
+    <customvalue scriptid="val_19157_2772245_869">
+      <isinactive>F</isinactive>
+      <value>RT - Omani - Site Staff (14days - 14days)</value>
+    </customvalue>
+    <customvalue scriptid="val_19158_2772245_266">
+      <isinactive>F</isinactive>
+      <value>RT - Non-Omani (Expat) (5mon - 25days)</value>
+    </customvalue>
+    <customvalue scriptid="val_19159_2772245_722">
+      <isinactive>F</isinactive>
+      <value>RT - Non-Omani (Expat) (3mon - 1Mon)</value>
+    </customvalue>
+    <customvalue scriptid="val_19160_2772245_152">
+      <isinactive>F</isinactive>
+      <value>RT - Non-Omani (Expat) (5mon - 1Mon)</value>
+    </customvalue>
+    <customvalue scriptid="val_19161_2772245_977">
+      <isinactive>F</isinactive>
+      <value>RT- ADCO-Onshore (11mon- 01mon)</value>
+    </customvalue>
+  </customvalues>
+</customlist>

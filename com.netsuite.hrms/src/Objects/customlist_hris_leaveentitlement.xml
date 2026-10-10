@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_hris_leaveentitlement">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Leave Entitlement</name>
+  <customvalues>
+    <customvalue scriptid="val_18911_2772245_391">
+      <isinactive>F</isinactive>
+      <value>22 working days</value>
+    </customvalue>
+    <customvalue scriptid="val_18912_2772245_737">
+      <isinactive>F</isinactive>
+      <value>24 working days</value>
+    </customvalue>
+    <customvalue scriptid="val_18913_2772245_471">
+      <isinactive>F</isinactive>
+      <value>26 working days</value>
+    </customvalue>
+    <customvalue scriptid="val_18914_2772245_306">
+      <isinactive>F</isinactive>
+      <value>52 working days</value>
+    </customvalue>
+    <customvalue scriptid="val_18915_2772245_936">
+      <isinactive>F</isinactive>
+      <value>Rotation Leave</value>
+    </customvalue>
+  </customvalues>
+</customlist>

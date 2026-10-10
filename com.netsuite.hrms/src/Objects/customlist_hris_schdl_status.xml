@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_schdl_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Schedule status</name>
+  <customvalues>
+    <customvalue scriptid="val_29197_2772245_620">
+      <isinactive>F</isinactive>
+      <value>Open</value>
+    </customvalue>
+    <customvalue scriptid="val_29198_2772245_258">
+      <isinactive>F</isinactive>
+      <value>Completed</value>
+    </customvalue>
+    <customvalue scriptid="val_29199_2772245_429">
+      <isinactive>F</isinactive>
+      <value>Skip</value>
+    </customvalue>
+  </customvalues>
+</customlist>

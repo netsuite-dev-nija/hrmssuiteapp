@@ -1,0 +1,20 @@
+<customlist scriptid="customlist463">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>RRF Status</name>
+  <customvalues>
+    <customvalue scriptid="val_34145_2772245_440">
+      <isinactive>F</isinactive>
+      <value>open</value>
+    </customvalue>
+    <customvalue scriptid="val_34146_2772245_369">
+      <isinactive>F</isinactive>
+      <value>Closed</value>
+    </customvalue>
+    <customvalue scriptid="val_34147_2772245_888">
+      <isinactive>F</isinactive>
+      <value>In process</value>
+    </customvalue>
+  </customvalues>
+</customlist>

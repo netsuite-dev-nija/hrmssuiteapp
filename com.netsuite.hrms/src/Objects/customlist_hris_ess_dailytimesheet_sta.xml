@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_ess_dailytimesheet_sta">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Status list ess timesheet</name>
+  <customvalues>
+    <customvalue scriptid="val_44736276_5250636_sb2_715">
+      <isinactive>F</isinactive>
+      <value>Open</value>
+    </customvalue>
+    <customvalue scriptid="val_44736277_5250636_sb2_138">
+      <isinactive>F</isinactive>
+      <value>Processed</value>
+    </customvalue>
+    <customvalue scriptid="val_44736278_5250636_sb2_384">
+      <isinactive>F</isinactive>
+      <value>Not Processed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

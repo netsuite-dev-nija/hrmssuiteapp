@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_seperationtype">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Separation Type</name>
+  <customvalues>
+    <customvalue scriptid="val_20623_2772245_780">
+      <isinactive>F</isinactive>
+      <value>Resignation</value>
+    </customvalue>
+    <customvalue scriptid="val_20624_2772245_746">
+      <isinactive>F</isinactive>
+      <value>Termination</value>
+    </customvalue>
+    <customvalue scriptid="val_20625_2772245_661">
+      <isinactive>F</isinactive>
+      <value>End of Contract</value>
+    </customvalue>
+    <customvalue scriptid="val_20626_2772245_794">
+      <isinactive>F</isinactive>
+      <value>Retirement</value>
+    </customvalue>
+  </customvalues>
+</customlist>

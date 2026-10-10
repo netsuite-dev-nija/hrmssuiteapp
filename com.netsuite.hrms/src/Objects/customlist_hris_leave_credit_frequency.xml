@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_leave_credit_frequency">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Leave credit frequency</name>
+  <customvalues>
+    <customvalue scriptid="val_19339_2772245_742">
+      <isinactive>F</isinactive>
+      <value>Monthly</value>
+    </customvalue>
+    <customvalue scriptid="val_19340_2772245_156">
+      <isinactive>F</isinactive>
+      <value>Yearly</value>
+    </customvalue>
+    <customvalue scriptid="val_19341_2772245_339">
+      <isinactive>F</isinactive>
+      <value>Daily</value>
+    </customvalue>
+    <customvalue scriptid="val_19342_2772245_131">
+      <isinactive>F</isinactive>
+      <value>Quarterly</value>
+    </customvalue>
+  </customvalues>
+</customlist>

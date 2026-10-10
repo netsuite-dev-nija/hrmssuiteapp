@@ -1,0 +1,6 @@
+<customlist scriptid="customlist_hris_employee_job_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Employee Job Status</name>
+</customlist>

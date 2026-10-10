@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_hris_performance_eval_ratin">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Rating</name>
+  <customvalues>
+    <customvalue scriptid="val_32569_2772245_677">
+      <isinactive>F</isinactive>
+      <value>5 - Significantly Exceeds Expectations</value>
+    </customvalue>
+    <customvalue scriptid="val_32570_2772245_161">
+      <isinactive>F</isinactive>
+      <value>4 - Exceeds Expectations</value>
+    </customvalue>
+    <customvalue scriptid="val_32571_2772245_781">
+      <isinactive>F</isinactive>
+      <value>3 - Meets Expectations</value>
+    </customvalue>
+    <customvalue scriptid="val_32572_2772245_335">
+      <isinactive>F</isinactive>
+      <value>2 - Sometimes Meets Expectations</value>
+    </customvalue>
+    <customvalue scriptid="val_32573_2772245_968">
+      <isinactive>F</isinactive>
+      <value>1- Does Not Meet Expectations</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_leavebalanceaccural">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Leave Balance/Accrual</name>
+  <customvalues>
+    <customvalue scriptid="val_19346_2772245_878">
+      <isinactive>F</isinactive>
+      <value>Yearly</value>
+    </customvalue>
+    <customvalue scriptid="val_19347_2772245_509">
+      <isinactive>F</isinactive>
+      <value>Monthly</value>
+    </customvalue>
+    <customvalue scriptid="val_19348_2772245_203">
+      <isinactive>F</isinactive>
+      <value>Daily</value>
+    </customvalue>
+  </customvalues>
+</customlist>

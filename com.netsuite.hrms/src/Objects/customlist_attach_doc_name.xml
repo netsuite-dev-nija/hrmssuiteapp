@@ -1,0 +1,48 @@
+<customlist scriptid="customlist_attach_doc_name">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>F</isordered>
+  <name>Document Name</name>
+  <customvalues>
+    <customvalue scriptid="val_23746033_5250636_338">
+      <isinactive>F</isinactive>
+      <value>Account Opening Form 1-4</value>
+    </customvalue>
+    <customvalue scriptid="val_24158871_5250636_167">
+      <isinactive>F</isinactive>
+      <value>Account Opening Form 5</value>
+    </customvalue>
+    <customvalue scriptid="val_23746053_5250636_957">
+      <isinactive>F</isinactive>
+      <value>Chamber Or Commerce</value>
+    </customvalue>
+    <customvalue scriptid="val_23746250_5250636_683">
+      <isinactive>F</isinactive>
+      <value>Financial Statements</value>
+    </customvalue>
+    <customvalue scriptid="val_24158923_5250636_189">
+      <isinactive>F</isinactive>
+      <value>National ID</value>
+    </customvalue>
+    <customvalue scriptid="val_24065024_5250636_821">
+      <isinactive>F</isinactive>
+      <value>Other</value>
+    </customvalue>
+    <customvalue scriptid="val_23746243_5250636_641">
+      <isinactive>F</isinactive>
+      <value>Passport Copies</value>
+    </customvalue>
+    <customvalue scriptid="val_23746231_5250636_975">
+      <isinactive>F</isinactive>
+      <value>Purchase Order</value>
+    </customvalue>
+    <customvalue scriptid="val_23746036_5250636_879">
+      <isinactive>F</isinactive>
+      <value>Trade License</value>
+    </customvalue>
+    <customvalue scriptid="val_23746050_5250636_915">
+      <isinactive>F</isinactive>
+      <value>VAT Registration Certificate</value>
+    </customvalue>
+  </customvalues>
+</customlist>

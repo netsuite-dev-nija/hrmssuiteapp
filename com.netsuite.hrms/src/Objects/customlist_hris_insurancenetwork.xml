@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_insurancenetwork">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Insurance Network</name>
+  <customvalues>
+    <customvalue scriptid="val_20586_2772245_338">
+      <isinactive>F</isinactive>
+      <value>Dubai National Insurance and Reinsurance</value>
+    </customvalue>
+    <customvalue scriptid="val_20587_2772245_368">
+      <isinactive>F</isinactive>
+      <value>Union Insurance Co.</value>
+    </customvalue>
+  </customvalues>
+</customlist>

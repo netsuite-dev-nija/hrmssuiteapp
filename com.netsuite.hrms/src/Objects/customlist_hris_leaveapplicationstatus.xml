@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_leaveapplicationstatus">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Leave Application Status</name>
+  <customvalues>
+    <customvalue scriptid="val_22694_2772245_282">
+      <isinactive>F</isinactive>
+      <value>Pending</value>
+    </customvalue>
+    <customvalue scriptid="val_22695_2772245_799">
+      <isinactive>F</isinactive>
+      <value>Approved</value>
+    </customvalue>
+    <customvalue scriptid="val_22696_2772245_338">
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+  </customvalues>
+</customlist>

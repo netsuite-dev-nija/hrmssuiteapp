@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_njt_account">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Account</name>
+  <customvalues>
+    <customvalue scriptid="val_38077_2772245_906">
+      <isinactive>F</isinactive>
+      <value>Lakshmi vilas</value>
+    </customvalue>
+    <customvalue scriptid="val_38078_2772245_412">
+      <isinactive>F</isinactive>
+      <value>Indian</value>
+    </customvalue>
+    <customvalue scriptid="val_38079_2772245_287">
+      <isinactive>F</isinactive>
+      <value>sbi</value>
+    </customvalue>
+  </customvalues>
+</customlist>

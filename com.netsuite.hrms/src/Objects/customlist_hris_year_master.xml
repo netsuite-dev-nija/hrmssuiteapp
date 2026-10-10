@@ -1,0 +1,40 @@
+<customlist scriptid="customlist_hris_year_master">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Year Master List</name>
+  <customvalues>
+    <customvalue scriptid="val_18956_2772245_740">
+      <isinactive>F</isinactive>
+      <value>2019</value>
+    </customvalue>
+    <customvalue scriptid="val_18957_2772245_404">
+      <isinactive>F</isinactive>
+      <value>2020</value>
+    </customvalue>
+    <customvalue scriptid="val_18958_2772245_104">
+      <isinactive>F</isinactive>
+      <value>2021</value>
+    </customvalue>
+    <customvalue scriptid="val_18959_2772245_555">
+      <isinactive>F</isinactive>
+      <value>2022</value>
+    </customvalue>
+    <customvalue scriptid="val_18960_2772245_994">
+      <isinactive>F</isinactive>
+      <value>2023</value>
+    </customvalue>
+    <customvalue scriptid="val_18961_2772245_522">
+      <isinactive>F</isinactive>
+      <value>2024</value>
+    </customvalue>
+    <customvalue scriptid="val_18962_2772245_104">
+      <isinactive>F</isinactive>
+      <value>2025</value>
+    </customvalue>
+    <customvalue scriptid="val_94784_2772245_549">
+      <isinactive>F</isinactive>
+      <value>2026</value>
+    </customvalue>
+  </customvalues>
+</customlist>

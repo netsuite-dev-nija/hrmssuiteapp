@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_insurancecategory">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Insurance Category</name>
+  <customvalues>
+    <customvalue scriptid="val_20572_2772245_715">
+      <isinactive>F</isinactive>
+      <value>General Insurance</value>
+    </customvalue>
+    <customvalue scriptid="val_20573_2772245_379">
+      <isinactive>F</isinactive>
+      <value>Life Insurance</value>
+    </customvalue>
+  </customvalues>
+</customlist>

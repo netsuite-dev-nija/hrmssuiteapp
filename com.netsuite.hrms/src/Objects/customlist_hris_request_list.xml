@@ -1,0 +1,6 @@
+<customlist scriptid="customlist_hris_request_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>REQUEST TYPE SELECTION LIST</name>
+</customlist>

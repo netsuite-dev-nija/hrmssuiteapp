@@ -1,0 +1,32 @@
+<customlist scriptid="customlist_hris_omani_nonomani_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Omani / Non - Omani List</name>
+  <customvalues>
+    <customvalue scriptid="val_18940_2772245_789">
+      <isinactive>F</isinactive>
+      <value>Bahraini Site Staff</value>
+    </customvalue>
+    <customvalue scriptid="val_18941_2772245_630">
+      <isinactive>F</isinactive>
+      <value>Non - Omani</value>
+    </customvalue>
+    <customvalue scriptid="val_18942_2772245_526">
+      <isinactive>F</isinactive>
+      <value>Not Applicable</value>
+    </customvalue>
+    <customvalue scriptid="val_18943_2772245_221">
+      <isinactive>F</isinactive>
+      <value>Omani - Office Staff</value>
+    </customvalue>
+    <customvalue scriptid="val_18944_2772245_524">
+      <isinactive>F</isinactive>
+      <value>Saudi - Site Staff</value>
+    </customvalue>
+    <customvalue scriptid="val_21496_2772245_899">
+      <isinactive>F</isinactive>
+      <value>Omani - Site Staff</value>
+    </customvalue>
+  </customvalues>
+</customlist>

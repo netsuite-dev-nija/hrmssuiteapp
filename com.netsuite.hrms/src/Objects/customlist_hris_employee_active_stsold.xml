@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_employee_active_stsold">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Employee Active Statusold</name>
+  <customvalues>
+    <customvalue scriptid="val_18904_2772245_675">
+      <isinactive>F</isinactive>
+      <value>Regular</value>
+    </customvalue>
+    <customvalue scriptid="val_18905_2772245_936">
+      <isinactive>F</isinactive>
+      <value>Resigned</value>
+    </customvalue>
+    <customvalue scriptid="val_18906_2772245_987">
+      <isinactive>F</isinactive>
+      <value>Terminated</value>
+    </customvalue>
+    <customvalue scriptid="val_18907_2772245_468">
+      <isinactive>F</isinactive>
+      <value>End of Contract</value>
+    </customvalue>
+  </customvalues>
+</customlist>

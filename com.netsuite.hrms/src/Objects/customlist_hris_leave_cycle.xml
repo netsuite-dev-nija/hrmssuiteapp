@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_leave_cycle">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Rotational Leave Cycle</name>
+  <customvalues>
+    <customvalue scriptid="val_20621_2772245_849">
+      <isinactive>F</isinactive>
+      <value> 1st Cycle (Rotational Leave Unpaid)</value>
+    </customvalue>
+    <customvalue scriptid="val_20622_2772245_385">
+      <isinactive>F</isinactive>
+      <value>2nd Cycle (Rotational Annual Leave)</value>
+    </customvalue>
+  </customvalues>
+</customlist>

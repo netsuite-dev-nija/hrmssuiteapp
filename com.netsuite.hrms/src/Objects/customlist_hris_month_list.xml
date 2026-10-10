@@ -1,0 +1,56 @@
+<customlist scriptid="customlist_hris_month_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Month List</name>
+  <customvalues>
+    <customvalue scriptid="val_18966_2772245_379">
+      <isinactive>F</isinactive>
+      <value>January</value>
+    </customvalue>
+    <customvalue scriptid="val_18967_2772245_844">
+      <isinactive>F</isinactive>
+      <value>February</value>
+    </customvalue>
+    <customvalue scriptid="val_18968_2772245_513">
+      <isinactive>F</isinactive>
+      <value>March</value>
+    </customvalue>
+    <customvalue scriptid="val_18969_2772245_585">
+      <isinactive>F</isinactive>
+      <value>April</value>
+    </customvalue>
+    <customvalue scriptid="val_18970_2772245_812">
+      <isinactive>F</isinactive>
+      <value>May</value>
+    </customvalue>
+    <customvalue scriptid="val_18971_2772245_688">
+      <isinactive>F</isinactive>
+      <value>June</value>
+    </customvalue>
+    <customvalue scriptid="val_18972_2772245_322">
+      <isinactive>F</isinactive>
+      <value>July</value>
+    </customvalue>
+    <customvalue scriptid="val_18973_2772245_242">
+      <isinactive>F</isinactive>
+      <value>August</value>
+    </customvalue>
+    <customvalue scriptid="val_18974_2772245_693">
+      <isinactive>F</isinactive>
+      <value>September</value>
+    </customvalue>
+    <customvalue scriptid="val_18975_2772245_927">
+      <isinactive>F</isinactive>
+      <value>October</value>
+    </customvalue>
+    <customvalue scriptid="val_18976_2772245_103">
+      <isinactive>F</isinactive>
+      <value>November</value>
+    </customvalue>
+    <customvalue scriptid="val_18977_2772245_650">
+      <isinactive>F</isinactive>
+      <value>December</value>
+    </customvalue>
+  </customvalues>
+</customlist>

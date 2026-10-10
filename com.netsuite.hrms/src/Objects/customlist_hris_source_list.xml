@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_source_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Source list</name>
+  <customvalues>
+    <customvalue scriptid="val_44765743_5250636_sb2_954">
+      <isinactive>F</isinactive>
+      <value>Biometric</value>
+    </customvalue>
+    <customvalue scriptid="val_44765744_5250636_sb2_747">
+      <isinactive>F</isinactive>
+      <value>Mob</value>
+    </customvalue>
+    <customvalue scriptid="val_44765745_5250636_sb2_435">
+      <isinactive>F</isinactive>
+      <value>Web</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_njt_req_type_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Request Type</name>
+  <customvalues>
+    <customvalue scriptid="val_30982_2772245_157">
+      <isinactive>F</isinactive>
+      <value>Project</value>
+    </customvalue>
+    <customvalue scriptid="val_30983_2772245_393">
+      <isinactive>F</isinactive>
+      <value>General</value>
+    </customvalue>
+  </customvalues>
+</customlist>

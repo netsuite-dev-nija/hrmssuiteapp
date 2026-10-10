@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_travel_class_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Travel class list</name>
+  <customvalues>
+    <customvalue scriptid="val_20672_2772245_106">
+      <isinactive>F</isinactive>
+      <value>Business Class</value>
+    </customvalue>
+    <customvalue scriptid="val_20673_2772245_470">
+      <isinactive>F</isinactive>
+      <value>Regular Class</value>
+    </customvalue>
+  </customvalues>
+</customlist>

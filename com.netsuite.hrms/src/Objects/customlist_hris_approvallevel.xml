@@ -1,0 +1,48 @@
+<customlist scriptid="customlist_hris_approvallevel">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Approval Level</name>
+  <customvalues>
+    <customvalue scriptid="val_20529_2772245_683">
+      <isinactive>F</isinactive>
+      <value>Level 1</value>
+    </customvalue>
+    <customvalue scriptid="val_20530_2772245_737">
+      <isinactive>F</isinactive>
+      <value>Level 2</value>
+    </customvalue>
+    <customvalue scriptid="val_20531_2772245_218">
+      <isinactive>F</isinactive>
+      <value>Level 3</value>
+    </customvalue>
+    <customvalue scriptid="val_20532_2772245_383">
+      <isinactive>F</isinactive>
+      <value>Level 4</value>
+    </customvalue>
+    <customvalue scriptid="val_20533_2772245_459">
+      <isinactive>F</isinactive>
+      <value>Level 5</value>
+    </customvalue>
+    <customvalue scriptid="val_20534_2772245_449">
+      <isinactive>F</isinactive>
+      <value>Level 6</value>
+    </customvalue>
+    <customvalue scriptid="val_20535_2772245_912">
+      <isinactive>F</isinactive>
+      <value>Level 7</value>
+    </customvalue>
+    <customvalue scriptid="val_20536_2772245_772">
+      <isinactive>F</isinactive>
+      <value>Level 8</value>
+    </customvalue>
+    <customvalue scriptid="val_20537_2772245_489">
+      <isinactive>F</isinactive>
+      <value>Level 9</value>
+    </customvalue>
+    <customvalue scriptid="val_20538_2772245_830">
+      <isinactive>F</isinactive>
+      <value>Level 10</value>
+    </customvalue>
+  </customvalues>
+</customlist>

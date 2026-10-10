@@ -1,0 +1,36 @@
+<customlist scriptid="customlist_hris_work_flow_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Work Flow Status</name>
+  <customvalues>
+    <customvalue scriptid="val_20686_2772245_930">
+      <isinactive>F</isinactive>
+      <value>Pending</value>
+    </customvalue>
+    <customvalue scriptid="val_20687_2772245_294">
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+    <customvalue scriptid="val_20688_2772245_710">
+      <isinactive>F</isinactive>
+      <value>Draft</value>
+    </customvalue>
+    <customvalue scriptid="val_20689_2772245_977">
+      <isinactive>F</isinactive>
+      <value>Approved</value>
+    </customvalue>
+    <customvalue scriptid="val_20690_2772245_449">
+      <isinactive>F</isinactive>
+      <value>Processed</value>
+    </customvalue>
+    <customvalue scriptid="val_20691_2772245_663">
+      <isinactive>F</isinactive>
+      <value>Pending for Letter Generation</value>
+    </customvalue>
+    <customvalue scriptid="val_20692_2772245_792">
+      <isinactive>F</isinactive>
+      <value>Letter Generated</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,12 @@
+<customlist scriptid="customlist_hris_payroll_payment_mode">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Payroll Payment Mode</name>
+  <customvalues>
+    <customvalue scriptid="val_20591_2772245_500">
+      <isinactive>F</isinactive>
+      <value>Bank Transfer</value>
+    </customvalue>
+  </customvalues>
+</customlist>

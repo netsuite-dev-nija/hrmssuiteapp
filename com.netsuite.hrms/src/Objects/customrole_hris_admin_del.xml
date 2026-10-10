@@ -1,0 +1,25 @@
+<role scriptid="customrole_hris_admin_del">
+  <centertype>[scriptid=custcenter_center_hrandpayroll]</centertype>
+  <coreadminpermission>T</coreadminpermission>
+  <employeerestriction>NONE</employeerestriction>
+  <employeeselectionunrestricted>T</employeeselectionunrestricted>
+  <isinactive>F</isinactive>
+  <issalesrole>F</issalesrole>
+  <issinglesignononly>F</issinglesignononly>
+  <issupportrole>F</issupportrole>
+  <iswebserviceonlyrole>F</iswebserviceonlyrole>
+  <name>HR Admin((((deleted))))</name>
+  <parentrolescriptid></parentrolescriptid>
+  <restrictbydevice>F</restrictbydevice>
+  <restricttimeandexpenses>F</restricttimeandexpenses>
+  <subsidiaryoption>OWN</subsidiaryoption>
+  <subsidiaryviewingallowed>F</subsidiaryviewingallowed>
+  <tfaduration>720</tfaduration>
+  <tfarequired>OFF</tfarequired>
+  <permissions>
+    <permission>
+      <permkey>ADMI_DISPLAY_RECOMMENDATIONS</permkey>
+      <permlevel>FULL</permlevel>
+    </permission>
+  </permissions>
+</role>

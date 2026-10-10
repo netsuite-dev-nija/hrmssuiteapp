@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_hris_apprusertype">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Approval User Type</name>
+  <customvalues>
+    <customvalue scriptid="val_20542_2772245_756">
+      <isinactive>F</isinactive>
+      <value>Role</value>
+    </customvalue>
+    <customvalue scriptid="val_20543_2772245_355">
+      <isinactive>F</isinactive>
+      <value>User</value>
+    </customvalue>
+    <customvalue scriptid="val_20544_2772245_233">
+      <isinactive>F</isinactive>
+      <value>Supervisor</value>
+    </customvalue>
+    <customvalue scriptid="val_20545_2772245_741">
+      <isinactive>F</isinactive>
+      <value>Project Supervisor</value>
+    </customvalue>
+    <customvalue scriptid="val_20546_2772245_162">
+      <isinactive>F</isinactive>
+      <value>HOD</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_njt_process_status_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Process status list</name>
+  <customvalues>
+    <customvalue scriptid="val_1114584_6945883_sb1_388">
+      <isinactive>F</isinactive>
+      <value>Not processed</value>
+    </customvalue>
+    <customvalue scriptid="val_1114585_6945883_sb1_762">
+      <isinactive>F</isinactive>
+      <value>Processed</value>
+    </customvalue>
+    <customvalue scriptid="val_1114586_6945883_sb1_669">
+      <isinactive>F</isinactive>
+      <value>Failed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

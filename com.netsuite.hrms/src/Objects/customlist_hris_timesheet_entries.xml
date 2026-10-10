@@ -1,0 +1,40 @@
+<customlist scriptid="customlist_hris_timesheet_entries">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Timesheet entries</name>
+  <customvalues>
+    <customvalue scriptid="val_20664_2772245_295">
+      <isinactive>F</isinactive>
+      <value>UAE - Office Working hours</value>
+    </customvalue>
+    <customvalue scriptid="val_20665_2772245_156">
+      <isinactive>F</isinactive>
+      <value>UAE - Workshop Working Hours</value>
+    </customvalue>
+    <customvalue scriptid="val_20666_2772245_279">
+      <isinactive>F</isinactive>
+      <value>Bahrain - Office Working Hours</value>
+    </customvalue>
+    <customvalue scriptid="val_20667_2772245_447">
+      <isinactive>F</isinactive>
+      <value>Bahrain - Workshop Working Hours</value>
+    </customvalue>
+    <customvalue scriptid="val_20668_2772245_276">
+      <isinactive>F</isinactive>
+      <value>Kuwait - Workshop Working Hours</value>
+    </customvalue>
+    <customvalue scriptid="val_20669_2772245_660">
+      <isinactive>F</isinactive>
+      <value>Kuwait - Office Working hours</value>
+    </customvalue>
+    <customvalue scriptid="val_20670_2772245_165">
+      <isinactive>F</isinactive>
+      <value>Qatar - Office Working Hours</value>
+    </customvalue>
+    <customvalue scriptid="val_20671_2772245_432">
+      <isinactive>F</isinactive>
+      <value>Qatar - Workshop Working Hours</value>
+    </customvalue>
+  </customvalues>
+</customlist>

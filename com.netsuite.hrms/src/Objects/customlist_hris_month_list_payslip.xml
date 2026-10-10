@@ -1,0 +1,56 @@
+<customlist scriptid="customlist_hris_month_list_payslip">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Month List payslip</name>
+  <customvalues>
+    <customvalue scriptid="val_28021_2772245_818">
+      <isinactive>F</isinactive>
+      <value>1</value>
+    </customvalue>
+    <customvalue scriptid="val_28022_2772245_955">
+      <isinactive>F</isinactive>
+      <value>2</value>
+    </customvalue>
+    <customvalue scriptid="val_28023_2772245_774">
+      <isinactive>F</isinactive>
+      <value>3</value>
+    </customvalue>
+    <customvalue scriptid="val_28024_2772245_186">
+      <isinactive>F</isinactive>
+      <value>4</value>
+    </customvalue>
+    <customvalue scriptid="val_28025_2772245_703">
+      <isinactive>F</isinactive>
+      <value>5</value>
+    </customvalue>
+    <customvalue scriptid="val_28026_2772245_387">
+      <isinactive>F</isinactive>
+      <value>6</value>
+    </customvalue>
+    <customvalue scriptid="val_28027_2772245_733">
+      <isinactive>F</isinactive>
+      <value>7</value>
+    </customvalue>
+    <customvalue scriptid="val_28028_2772245_635">
+      <isinactive>F</isinactive>
+      <value>8</value>
+    </customvalue>
+    <customvalue scriptid="val_28029_2772245_409">
+      <isinactive>F</isinactive>
+      <value>9</value>
+    </customvalue>
+    <customvalue scriptid="val_28030_2772245_392">
+      <isinactive>F</isinactive>
+      <value>10</value>
+    </customvalue>
+    <customvalue scriptid="val_28031_2772245_778">
+      <isinactive>F</isinactive>
+      <value>11</value>
+    </customvalue>
+    <customvalue scriptid="val_28032_2772245_228">
+      <isinactive>F</isinactive>
+      <value>12</value>
+    </customvalue>
+  </customvalues>
+</customlist>

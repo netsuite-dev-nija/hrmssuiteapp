@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_process_type_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Process Type List</name>
+  <customvalues>
+    <customvalue scriptid="val_20600_2772245_497">
+      <isinactive>F</isinactive>
+      <value>Pay Process</value>
+    </customvalue>
+    <customvalue scriptid="val_20601_2772245_740">
+      <isinactive>F</isinactive>
+      <value>Settlement Process</value>
+    </customvalue>
+  </customvalues>
+</customlist>

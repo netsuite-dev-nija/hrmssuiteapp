@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_evalaution_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Evaluation Type</name>
+  <customvalues>
+    <customvalue scriptid="val_23282_2772245_973">
+      <isinactive>F</isinactive>
+      <value>Staff</value>
+    </customvalue>
+    <customvalue scriptid="val_23283_2772245_743">
+      <isinactive>F</isinactive>
+      <value>Manager</value>
+    </customvalue>
+    <customvalue scriptid="val_23284_2772245_607">
+      <isinactive>F</isinactive>
+      <value>Supervisor</value>
+    </customvalue>
+  </customvalues>
+</customlist>

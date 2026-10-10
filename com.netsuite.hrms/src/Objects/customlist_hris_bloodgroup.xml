@@ -1,0 +1,40 @@
+<customlist scriptid="customlist_hris_bloodgroup">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Blood Group</name>
+  <customvalues>
+    <customvalue scriptid="val_20559_2772245_191">
+      <isinactive>F</isinactive>
+      <value>A+</value>
+    </customvalue>
+    <customvalue scriptid="val_20560_2772245_488">
+      <isinactive>F</isinactive>
+      <value>A-</value>
+    </customvalue>
+    <customvalue scriptid="val_20561_2772245_100">
+      <isinactive>F</isinactive>
+      <value>B+</value>
+    </customvalue>
+    <customvalue scriptid="val_20562_2772245_475">
+      <isinactive>F</isinactive>
+      <value>B-</value>
+    </customvalue>
+    <customvalue scriptid="val_20563_2772245_728">
+      <isinactive>F</isinactive>
+      <value>O+</value>
+    </customvalue>
+    <customvalue scriptid="val_20564_2772245_384">
+      <isinactive>F</isinactive>
+      <value>O-</value>
+    </customvalue>
+    <customvalue scriptid="val_20565_2772245_278">
+      <isinactive>F</isinactive>
+      <value>AB+</value>
+    </customvalue>
+    <customvalue scriptid="val_20566_2772245_614">
+      <isinactive>F</isinactive>
+      <value>AB-</value>
+    </customvalue>
+  </customvalues>
+</customlist>

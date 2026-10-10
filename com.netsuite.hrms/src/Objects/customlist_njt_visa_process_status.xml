@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_njt_visa_process_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Visa Process status</name>
+  <customvalues>
+    <customvalue scriptid="val_34178_2772245_850">
+      <isinactive>F</isinactive>
+      <value>Open</value>
+    </customvalue>
+    <customvalue scriptid="val_34179_2772245_382">
+      <isinactive>F</isinactive>
+      <value>In progress</value>
+    </customvalue>
+    <customvalue scriptid="val_34180_2772245_856">
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+    <customvalue scriptid="val_34181_2772245_649">
+      <isinactive>F</isinactive>
+      <value>Completed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

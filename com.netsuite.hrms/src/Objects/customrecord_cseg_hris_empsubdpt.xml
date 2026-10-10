@@ -1,0 +1,113 @@
+<customrecordtype scriptid="customrecord_cseg_hris_empsubdpt">
+  <allowattachments>F</allowattachments>
+  <allowinlinedeleting>F</allowinlinedeleting>
+  <allowinlinedetaching>F</allowinlinedetaching>
+  <allowinlineediting>F</allowinlineediting>
+  <allowquickadd>F</allowquickadd>
+  <allowquicksearch>F</allowquicksearch>
+  <customsegment>[type=customsegment, scriptid=cseg_hris_empsubdpt]</customsegment>
+  <enabledle>F</enabledle>
+  <enablekeywords>F</enablekeywords>
+  <enablemailmerge>F</enablemailmerge>
+  <enableoptimisticlocking>F</enableoptimisticlocking>
+  <enablesystemnotes>T</enablesystemnotes>
+  <icon></icon>
+  <iconbuiltin>T</iconbuiltin>
+  <iconindex></iconindex>
+  <includeinsearchmenu>F</includeinsearchmenu>
+  <showcreationdate>F</showcreationdate>
+  <showcreationdateonlist>F</showcreationdateonlist>
+  <showlastmodified>F</showlastmodified>
+  <showlastmodifiedonlist>F</showlastmodifiedonlist>
+  <shownotes>T</shownotes>
+  <showowner>F</showowner>
+  <showownerallowchange>F</showownerallowchange>
+  <showowneronlist>F</showowneronlist>
+  <instances>
+    <instance scriptid="val_29804_2772245_262">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29848_2772245_265]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Accounts</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29805_2772245_505">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29834_2772245_166]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Administration</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29806_2772245_377">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29834_2772245_166]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Human Resources</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29807_2772245_692">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29849_2772245_707]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Common</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29808_2772245_586">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29850_2772245_617]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>House Maid</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29809_2772245_393">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29851_2772245_111]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>IT </name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29810_2772245_789">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29846_2772245_405]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Purchase - Store</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29811_2772245_869">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29844_2772245_460]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Forklift Rental</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29812_2772245_893">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29847_2772245_794]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>FWME</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29813_2772245_697">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29847_2772245_794]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Forklift Sales</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29814_2772245_521">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29847_2772245_794]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Spareparts Sales</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29815_2772245_597">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29847_2772245_794]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Forklift</name>
+      <parent></parent>
+    </instance>
+    <instance scriptid="val_29816_2772245_399">
+      <cseg_hris_empsubdpt_filterby_cseg_hris_empdept>[scriptid=customrecord_cseg_hris_empdept.val_29845_2772245_303]</cseg_hris_empsubdpt_filterby_cseg_hris_empdept>
+      <isinactive>F</isinactive>
+      <name>Workshop</name>
+      <parent></parent>
+    </instance>
+  </instances>
+  <links>
+    <link>
+      <linkcategory>BASICSETUPCOMPANY</linkcategory>
+      <linklabel></linklabel>
+      <linktasktype>LIST</linktasktype>
+    </link>
+  </links>
+</customrecordtype>

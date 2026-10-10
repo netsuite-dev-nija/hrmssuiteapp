@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_punch_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Punch type</name>
+  <customvalues>
+    <customvalue scriptid="val_44765748_5250636_sb2_550">
+      <isinactive>F</isinactive>
+      <value>IN</value>
+    </customvalue>
+    <customvalue scriptid="val_44765749_5250636_sb2_336">
+      <isinactive>F</isinactive>
+      <value>OUT</value>
+    </customvalue>
+  </customvalues>
+</customlist>

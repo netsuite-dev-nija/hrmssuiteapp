@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_req_status_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Request Status </name>
+  <customvalues>
+    <customvalue scriptid="val_27991_2772245_415">
+      <isinactive>F</isinactive>
+      <value>open</value>
+    </customvalue>
+    <customvalue scriptid="val_27992_2772245_106">
+      <isinactive>F</isinactive>
+      <value>Rejected</value>
+    </customvalue>
+    <customvalue scriptid="val_27993_2772245_665">
+      <isinactive>F</isinactive>
+      <value>Close</value>
+    </customvalue>
+    <customvalue scriptid="val_27994_2772245_799">
+      <isinactive>F</isinactive>
+      <value>Information Needed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

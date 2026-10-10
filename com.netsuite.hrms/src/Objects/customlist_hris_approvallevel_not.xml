@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_hris_approvallevel_not">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Approval Level(not need)</name>
+  <customvalues>
+    <customvalue scriptid="val_18518_2772245_240">
+      <isinactive>F</isinactive>
+      <value>Level 1</value>
+    </customvalue>
+    <customvalue scriptid="val_18519_2772245_865">
+      <isinactive>F</isinactive>
+      <value>Level 2</value>
+    </customvalue>
+    <customvalue scriptid="val_18520_2772245_108">
+      <isinactive>F</isinactive>
+      <value>Level 3</value>
+    </customvalue>
+    <customvalue scriptid="val_18521_2772245_485">
+      <isinactive>F</isinactive>
+      <value>Level 4</value>
+    </customvalue>
+  </customvalues>
+</customlist>

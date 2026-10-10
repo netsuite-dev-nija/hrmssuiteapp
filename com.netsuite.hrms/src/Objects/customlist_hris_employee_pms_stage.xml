@@ -1,0 +1,36 @@
+<customlist scriptid="customlist_hris_employee_pms_stage">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>PMS Stage</name>
+  <customvalues>
+    <customvalue scriptid="val_95788_2772245_800">
+      <isinactive>F</isinactive>
+      <value>KPI Definition</value>
+    </customvalue>
+    <customvalue scriptid="val_95789_2772245_587">
+      <isinactive>F</isinactive>
+      <value>Self Evaluation-MID year</value>
+    </customvalue>
+    <customvalue scriptid="val_95790_2772245_417">
+      <isinactive>F</isinactive>
+      <value>Manager Evaluation-MID year</value>
+    </customvalue>
+    <customvalue scriptid="val_95791_2772245_475">
+      <isinactive>F</isinactive>
+      <value>Self Evaluation-Final stage</value>
+    </customvalue>
+    <customvalue scriptid="val_95792_2772245_727">
+      <isinactive>F</isinactive>
+      <value>Manager Evaluation-Final stage</value>
+    </customvalue>
+    <customvalue scriptid="val_95793_2772245_701">
+      <isinactive>F</isinactive>
+      <value>HR Validation</value>
+    </customvalue>
+    <customvalue scriptid="val_95794_2772245_480">
+      <isinactive>F</isinactive>
+      <value>Acknowledgment</value>
+    </customvalue>
+  </customvalues>
+</customlist>

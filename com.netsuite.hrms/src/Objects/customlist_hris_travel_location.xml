@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_travel_location">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Travel location</name>
+  <customvalues>
+    <customvalue scriptid="val_20674_2772245_134">
+      <isinactive>F</isinactive>
+      <value>Domestic</value>
+    </customvalue>
+    <customvalue scriptid="val_20675_2772245_521">
+      <isinactive>F</isinactive>
+      <value>International</value>
+    </customvalue>
+    <customvalue scriptid="val_20676_2772245_965">
+      <isinactive>F</isinactive>
+      <value>Within City</value>
+    </customvalue>
+  </customvalues>
+</customlist>

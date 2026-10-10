@@ -1,0 +1,28 @@
+<customlist scriptid="customlist_hris_financial_customer">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Objectives List</name>
+  <customvalues>
+    <customvalue scriptid="val_31894_2772245_434">
+      <isinactive>F</isinactive>
+      <value>Financial</value>
+    </customvalue>
+    <customvalue scriptid="val_31899_2772245_459">
+      <isinactive>F</isinactive>
+      <value>Customer</value>
+    </customvalue>
+    <customvalue scriptid="val_96960_2772245_115">
+      <isinactive>F</isinactive>
+      <value>Company KPI</value>
+    </customvalue>
+    <customvalue scriptid="val_96961_2772245_276">
+      <isinactive>F</isinactive>
+      <value>Department KPI</value>
+    </customvalue>
+    <customvalue scriptid="val_96962_2772245_208">
+      <isinactive>F</isinactive>
+      <value>Individual KPI</value>
+    </customvalue>
+  </customvalues>
+</customlist>

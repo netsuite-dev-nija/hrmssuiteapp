@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_hris_duty_type_list">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Duty type List</name>
+  <customvalues>
+    <customvalue scriptid="val_89576_2772245_522">
+      <isinactive>F</isinactive>
+      <value>Working</value>
+    </customvalue>
+    <customvalue scriptid="val_89577_2772245_551">
+      <isinactive>F</isinactive>
+      <value>WO</value>
+    </customvalue>
+    <customvalue scriptid="val_89578_2772245_433">
+      <isinactive>F</isinactive>
+      <value>PH</value>
+    </customvalue>
+  </customvalues>
+</customlist>

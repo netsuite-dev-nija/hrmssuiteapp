@@ -1,0 +1,12 @@
+<customlist scriptid="customlist_hris_education">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Education</name>
+  <customvalues>
+    <customvalue scriptid="val_23537_2772245_892">
+      <isinactive>F</isinactive>
+      <value>MBA</value>
+    </customvalue>
+  </customvalues>
+</customlist>

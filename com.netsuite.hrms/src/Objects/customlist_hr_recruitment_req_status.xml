@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hr_recruitment_req_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Approval status</name>
+  <customvalues>
+    <customvalue scriptid="val_27542_2772245_750">
+      <isinactive>F</isinactive>
+      <value>Open</value>
+    </customvalue>
+    <customvalue scriptid="val_27543_2772245_987">
+      <isinactive>F</isinactive>
+      <value>Closed</value>
+    </customvalue>
+  </customvalues>
+</customlist>

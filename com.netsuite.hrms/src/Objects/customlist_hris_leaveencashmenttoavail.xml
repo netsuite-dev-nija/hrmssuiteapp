@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_leaveencashmenttoavail">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>HRIS Encashment to be availed	</name>
+  <customvalues>
+    <customvalue scriptid="val_19484_2772245_400">
+      <isinactive>F</isinactive>
+      <value>Yearly</value>
+    </customvalue>
+    <customvalue scriptid="val_19485_2772245_179">
+      <isinactive>F</isinactive>
+      <value>Settlement</value>
+    </customvalue>
+  </customvalues>
+</customlist>

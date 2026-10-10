@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_hris_staff_evaluation_perio">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Evaluation Period</name>
+  <customvalues>
+    <customvalue scriptid="val_95784_2772245_400">
+      <isinactive>F</isinactive>
+      <value>Mid -year</value>
+    </customvalue>
+    <customvalue scriptid="val_95785_2772245_860">
+      <isinactive>F</isinactive>
+      <value>Final-year</value>
+    </customvalue>
+  </customvalues>
+</customlist>
