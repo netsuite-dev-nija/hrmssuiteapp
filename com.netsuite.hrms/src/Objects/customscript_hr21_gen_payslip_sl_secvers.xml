@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hr21_gen_payslip_sl_secvers">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>HRIS Payslip 2.0</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/report scripts 1.0 to 2.1/Payslip Generation/hris_generate_payslip_sl 2.0.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hr21_gen_payslip_sl_secvers">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>HRIS Payslip 2.0</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

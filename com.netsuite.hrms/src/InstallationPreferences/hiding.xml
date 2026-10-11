@@ -3,8 +3,8 @@
 <!-- This configuration is only applied when the "Apply Installation Preferences" option is provided through SuiteCloud SDK. Otherwise this file is ignored. -->
 <!-- For more information, see https://system.netsuite.com/app/help/helpcenter.nl?fid=section_1515950176.html -->
 
-<preference type="HIDING" defaultAction="HIDE">
-    <apply action="UNHIDE">
+<preference type="HIDING" defaultAction="UNHIDE">
+    <apply action="HIDE">
         <!-- <path>~/FileCabinet/SuiteApps/xxx.xxx.xxx/MyScript.js</path> -->
     </apply>
 </preference>

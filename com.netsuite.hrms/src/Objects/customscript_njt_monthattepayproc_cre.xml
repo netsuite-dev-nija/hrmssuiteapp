@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_njt_monthattepayproc_cre">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Monthly Attendance For Payprocess  2.1</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRMS Scripts V2.1/Process Monthly to payprocess 2.1/njt_monthlyotandlopcriteria sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_njt_monthattepayproc_cre">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Monthly Attendance For Payprocess 2.1</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

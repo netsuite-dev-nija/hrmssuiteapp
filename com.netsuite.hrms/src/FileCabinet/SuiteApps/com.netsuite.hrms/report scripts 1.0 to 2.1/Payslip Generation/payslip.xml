@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE pdf PUBLIC "-//big.faceless.org//report" "report-1.1.dtd">
+ 
+<pdf>
+    <head>
+        <link name="NotoSans" type="font" subtype="truetype" src="${nsfont.NotoSans_Regular}" src-bold="${nsfont.NotoSans_Bold}" src-italic="${nsfont.NotoSans_Italic}" src-bolditalic="${nsfont.NotoSans_BoldItalic}" bytes="2" />
+    <#if .locale == "zh_CN">
+        <link name="NotoSansCJKsc" type="font" subtype="opentype" src="${nsfont.NotoSansCJKsc_Regular}" src-bold="${nsfont.NotoSansCJKsc_Bold}" bytes="2" />
+    <#elseif .locale == "zh_TW">
+        <link name="NotoSansCJKtc" type="font" subtype="opentype" src="${nsfont.NotoSansCJKtc_Regular}" src-bold="${nsfont.NotoSansCJKtc_Bold}" bytes="2" />
+    <#elseif .locale == "ja_JP">
+        <link name="NotoSansCJKjp" type="font" subtype="opentype" src="${nsfont.NotoSansCJKjp_Regular}" src-bold="${nsfont.NotoSansCJKjp_Bold}" bytes="2" />
+    <#elseif .locale == "ko_KR">
+        <link name="NotoSansCJKkr" type="font" subtype="opentype" src="${nsfont.NotoSansCJKkr_Regular}" src-bold="${nsfont.NotoSansCJKkr_Bold}" bytes="2" />
+    <#elseif .locale == "th_TH">
+        <link name="NotoSansThai" type="font" subtype="opentype" src="${nsfont.NotoSansThai_Regular}" src-bold="${nsfont.NotoSansThai_Bold}" bytes="2" />
+    </#if>
+    <macrolist>
+        <macro id="nlheader">
+                 
+ 
+ 
+       
+        </macro>
+ 
+        <macro id="nlfooter">
+           
+        </macro>
+        <macro id="watermark">
+            &nbsp;
+        </macro>
+    </macrolist>
+        <style type="text/css">* {
+        <#if .locale == "zh_CN">
+            font-family: NotoSans, NotoSansCJKsc, sans-serif;
+        <#elseif .locale == "zh_TW">
+            font-family: NotoSans, NotoSansCJKtc, sans-serif;
+        <#elseif .locale == "ja_JP">
+            font-family: NotoSans, NotoSansCJKjp, sans-serif;
+        <#elseif .locale == "ko_KR">
+            font-family: NotoSans, NotoSansCJKkr, sans-serif;
+        <#elseif .locale == "th_TH">
+            font-family: NotoSans, NotoSansThai, sans-serif;
+        <#else>
+            font-family: NotoSans, sans-serif;
+        </#if>
+        }
+            table {
+                font-size: 9pt;
+                table-layout: fixed;
+            }
+ 
+ 
+            td {
+                padding: 4px 6px;
+            }
+ 
+            table.header td {
+                padding: 0;
+                font-size: 10pt;
+            }
+ 
+            table.footer td {
+                padding: 0;
+                font-size: 8pt;
+            }
+ 
+            table.body td {
+                padding-top: 2px;
+            }
+ 
+            span.title {
+                font-size: 28pt;
+            }
+ 
+            .nameandaddress {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
+            }
+        </style>
+    </head>
+ 
+<body header="nlheader" header-height="1%" footer="nlfooter" footer-height="3%" padding="0.5in 0.5in 0.5in 0.5in" size="A4">
+{{tablexmlplaceholder}}
+<div>{{tablecontentpart}}</div>
+</body>
+</pdf>
+ 

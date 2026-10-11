@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hris_month_accural_version">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>HR monthly accrual 2.1</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/HR monthly accrual/hris_monthlyaccural_sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_month_accural_version">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>HR monthly accrual 2.1</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

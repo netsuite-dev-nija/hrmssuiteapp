@@ -1,0 +1,10 @@
+<clientscript scriptid="customscript_hris_report_exportexcel_cl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>wps report export as excel cs</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/report scripts 1.0 to 2.1/wps report export as excel cs.js]</scriptfile>
+</clientscript>

@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hr21_generate_paypdf_sls">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Hris GenPDf Sut</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/report scripts 1.0 to 2.1/Payslip Generation/hris_generate_payslippdf_sl2.0.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hr21_generate_paypdf_sls">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Hris GenPDf Sut</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hr21_dailytomon_process_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>HRIS Daily Manual To Monthly Process SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>F</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRMS Scripts V2.1/Daily To Monthly Attendance/hris_dailymanualtomonthly_process_sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hr21_dailytomon_process_sl">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>HRIS Daily Manual To Monthly Process SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

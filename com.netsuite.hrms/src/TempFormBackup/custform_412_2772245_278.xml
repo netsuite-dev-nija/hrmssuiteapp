@@ -798,7 +798,7 @@
           <sameRowAsPrevious>F</sameRowAsPrevious>
         </field>
         <field>
-          <id>[scriptid=customrecord_hris_leaveapplication.custrecord_hris_lve_process_status]</id>
+          <id>[scriptid=customrecord_hris_leaveapplication.custrecord_hris_lve_]</id>
           <label>Process Status</label>
           <visible>T</visible>
           <mandatory>F</mandatory>

@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_n21_emp_month_appro_post">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Employee monthly approval post</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRMS Scripts V2.1/Monthly attendance/employee month approval status post.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_n21_emp_month_appro_post">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Employee monthly approval post</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hris_salary_reg_mon_reports">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>salary reg monthly 2.1 sl</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/report scripts 1.0 to 2.1/salary reg monthly 2.1 sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_salary_reg_mon_reports">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>salary reg monthly 2.1 sl</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

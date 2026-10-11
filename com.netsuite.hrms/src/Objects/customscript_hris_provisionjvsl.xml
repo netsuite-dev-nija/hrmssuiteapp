@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hris_provisionjvsl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>Provision JV sl</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/Provision jv/Provision JV sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_provisionjvsl">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>Provision JV sl</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hris_cnfrmpayproc_sts_v2_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>HRIS Confirm Pay Process Status V2 SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/Confirm Pay Process/hris_confirm_pay_proc_status_sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_cnfrmpayproc_sts_v2_sl">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>HRIS Confirm Pay Process Status V2 SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

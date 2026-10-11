@@ -1,0 +1,1135 @@
+<entryForm scriptid="custform_280_2608638_242" standard="STANDARDCUSTOMRECORD_HRIS_LEAVECONFIGFORM">
+  <name>Custom Leave Type Master Form</name>
+  <recordType>[scriptid=customrecord_hris_leaveconfig]</recordType>
+  <inactive>F</inactive>
+  <preferred>T</preferred>
+  <storedWithRecord>F</storedWithRecord>
+  <mainFields>
+    <fieldGroup scriptid="fieldgroup_2_2608638_999">
+      <label>Primary Information</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>CUSTOMFORM</id>
+          <label>Custom Form</label>
+          <visible>F</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_leavename]</id>
+          <label>Leave Name</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_leaveshortname]</id>
+          <label>Leave Short Name</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>NAME</id>
+          <label>Name</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecnfg_seqno]</id>
+          <label>Sequence No</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_4_2608638_737">
+      <label>Applicable</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_subsidiary]</id>
+          <label>Subsidiary</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_location]</id>
+          <label>Location</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_empjobstatus]</id>
+          <label>Employee Job Status</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_gender]</id>
+          <label>Gender</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_maritalstatus]</id>
+          <label>Maritial Status</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_religion]</id>
+          <label>Religion</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_grade]</id>
+          <label>Grade</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconf_wklyoffcriteria]</id>
+          <label>Weekly Off Criteria</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_class]</id>
+          <label>Class</label>
+          <visible>F</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_department]</id>
+          <label>Department</label>
+          <visible>F</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_employee_catagory]</id>
+          <label>Employee Catagory</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_omaninonomani]</id>
+          <label>Omani / Non Omani</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_3_2608638_975">
+      <label>Entitlement</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_prorata]</id>
+          <label>Pro-Rata</label>
+          <visible>F</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_allowneglevbal]</id>
+          <label>Allow Negative Leave Balance </label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_includeweekoff]</id>
+          <label>Include Weekly offs</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_includeholiday]</id>
+          <label>Include Holidays</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_allowhalfday]</id>
+          <label>Allow half Day</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_isairtckapble]</id>
+          <label>Is Air Ticket Applicable</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_unpaid]</id>
+          <label>Unpaid</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_islevconsidegt]</id>
+          <label>Is Leave Consider for Gratuity</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_levsalaryapp]</id>
+          <label>Is Leave Salary Applicable</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_paid]</id>
+          <label>75% Paid</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_fiftyper]</id>
+          <label>50% Paid</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_twentyfiveper]</id>
+          <label>25% Paid</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_suportdocallow]</id>
+          <label>Support Doc Allowed</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_mindaysupport]</id>
+          <label>Min Days for Support Doc</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_halfpaid]</id>
+          <label>half paid</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_8_2608638_181">
+      <label>Leave Balance</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_stafftype]</id>
+          <label>Staff Type</label>
+          <visible>F</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_noofdayscredit]</id>
+          <label>No Of Days Credit</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_localemployee]</id>
+          <label>Local Employee</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_expatriesemp]</id>
+          <label>Expatriates Employee</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_outpatient]</id>
+          <label>Out Patient </label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_inpatient]</id>
+          <label>In Patient </label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_advanceleave]</id>
+          <label>Advance Leave (in Days)</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_7_2608638_691">
+      <label>Comp Off Rules</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_compoffrelate]</id>
+          <label>Comp Off Related</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_compoffavail]</id>
+          <label>COMP OFF AVAIL WITHIN DAYS</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_5_2608638_357">
+      <label>Encashment Rule</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_encashallowed]</id>
+          <label>Encashment Allowed</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_encashavailed]</id>
+          <label>Encashment to be availed</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_encashdayslimt]</id>
+          <label>Encashable Days Limit</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_minencashallow]</id>
+          <label>Min Encashment Days Allowed</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_maxencashallow]</id>
+          <label>Max Encashment Days Allowed</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_lveencashcal]</id>
+          <label>LEAVE ENCASHMENT CALCULATION DENOMINATOR CONSIDERED</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_6_2608638_263">
+      <label>Rotation Leave</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_rotationlve]</id>
+          <label>IS ROTATIONAL LEAVE</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_rotationlvefrw]</id>
+          <label>ROTATION LEAVE CARRY FORWARD APPLICABLE</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_rotationlvecle]</id>
+          <label>ROTATIONAL LEAVE CYCLE</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_totalrotation]</id>
+          <label>TOTAL DAYS IN ROTATIONAL CYCLE</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_11_2772245_885">
+      <label>Config Details</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecnfg_mindaystoapply]</id>
+          <label>Min. Days to Apply</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_maxdaystoapply]</id>
+          <label>Max. Days to Apply</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecnfg_considerpayroll]</id>
+          <label>Consider for Payroll</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_levcancelperod]</id>
+          <label>Leave Cancellation Period</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_levcarryforwrd]</id>
+          <label>Leave Carry Forward</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_maxcarryfrwd]</id>
+          <label>Max Carry Forward Limits</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_12_2772245_133">
+      <label>Leave Credit Configuration</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_levcreditfrqy]</id>
+          <label>Leave Credit Frequency</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_credit_month]</id>
+          <label>Credit Month</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_noofdaysto_credit]</id>
+          <label>No of days to credit</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_credit_on_joining]</id>
+          <label>Credit on Joining</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_creditconfrimatio]</id>
+          <label>Credit on Confirmation</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_first_day_credit]</id>
+          <label>First day of the month credit</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_last_day_credit]</id>
+          <label>List day of the month</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_creditseqno]</id>
+          <label>Credit Seq No</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_pro_rata]</id>
+          <label>Pro rata</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_round_off]</id>
+          <label>Round off</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_excluautobalan]</id>
+          <label>Exclude Automatic Leave Balance</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_accuraldays]</id>
+          <label>Accural Per Days</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_accuralcheck]</id>
+          <label>Accural Check</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_servicecomplet]</id>
+          <label>Service Completion</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_sercompdays]</id>
+          <label>No of  Service Completion Days To be Check</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_accuraldays_month]</id>
+          <label>Accural Per Month</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveattntype]</id>
+          <label>Attendance Type</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_workresume]</id>
+          <label>Work Resumption Allowed</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <fieldGroup scriptid="fieldgroup_13_2772245_907">
+      <label>Others</label>
+      <visible>T</visible>
+      <showTitle>T</showTitle>
+      <singleColumn>F</singleColumn>
+      <fields position="MIDDLE">
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecnf_maxcarryfrwdlimit]</id>
+          <label>Maximum Carry Forward Limit</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_nextyrleaveapply]</id>
+          <label>Next Year Leave apply within limit(Days)</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_leavetypeclubwith]</id>
+          <label>Leave Type Club with</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_compoffallowed]</id>
+          <label>Comp Off Allowed</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecnfg_leavebalance]</id>
+          <label>Initial Leave Balance</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lvecfg_maxnegativebal]</id>
+          <label>Max Negative Balance allowed</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_ledenominator]</id>
+          <label>Leave Encashment Calculation Denominator Considered</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </fieldGroup>
+    <defaultFieldGroup>
+      <fields position="MIDDLE">
+        <field>
+          <id>RECORDID</id>
+          <label>ID</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>OWNER</id>
+          <label>Owner</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>CREATED</id>
+          <label>Date Created</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>LASTMODIFIED</id>
+          <label>Last Modified</label>
+          <visible>T</visible>
+          <mandatory>T</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>ISINACTIVE</id>
+          <label>Inactive</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>PARENT</id>
+          <label>Parent</label>
+          <visible>T</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_oldinternalid]</id>
+          <label>Old Internal Id</label>
+          <visible>F</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_subdepartment]</id>
+          <label>Sub Department</label>
+          <visible>F</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+        <field>
+          <id>[scriptid=customrecord_hris_leaveconfig.custrecord_hris_lveconfig_department_n]</id>
+          <label>Department(new)</label>
+          <visible>F</visible>
+          <mandatory>F</mandatory>
+          <displayType>NORMAL</displayType>
+          <columnBreak>F</columnBreak>
+          <sameRowAsPrevious>F</sameRowAsPrevious>
+          <quickAdd>F</quickAdd>
+        </field>
+      </fields>
+    </defaultFieldGroup>
+  </mainFields>
+  <tabs>
+    <tab>
+      <id>RECORDNOTES</id>
+      <label>Notes</label>
+      <visible>T</visible>
+      <fieldGroups>
+        <defaultFieldGroup/>
+      </fieldGroups>
+      <subItems>
+        <subList>
+          <id>RECORDUSERNOTES</id>
+          <label>User Notes</label>
+          <visible>T</visible>
+          <neverEmpty>F</neverEmpty>
+        </subList>
+        <subList>
+          <id>RECORDSYSTEMNOTES</id>
+          <label>System Notes</label>
+          <visible>T</visible>
+          <neverEmpty>F</neverEmpty>
+        </subList>
+      </subItems>
+    </tab>
+    <tab>
+      <id>RECORDMEDIA</id>
+      <label>Files</label>
+      <visible>T</visible>
+      <fieldGroups>
+        <defaultFieldGroup/>
+      </fieldGroups>
+      <subItems>
+        <subList>
+          <id>RECORDMEDIAITEM</id>
+          <label>Files</label>
+          <visible>T</visible>
+          <neverEmpty>F</neverEmpty>
+        </subList>
+      </subItems>
+    </tab>
+    <tab>
+      <id>RECORDCUSTOM</id>
+      <label>Custom</label>
+      <visible>T</visible>
+      <fieldGroups>
+        <defaultFieldGroup/>
+      </fieldGroups>
+      <subItems/>
+    </tab>
+    <tab>
+      <id>RECORDWORKFLOW</id>
+      <label>Workflow</label>
+      <visible>T</visible>
+      <fieldGroups>
+        <defaultFieldGroup/>
+      </fieldGroups>
+      <subItems>
+        <subList>
+          <id>RECORDACTIVEWORKFLOWS</id>
+          <label>Active Workflows</label>
+          <visible>T</visible>
+          <neverEmpty>F</neverEmpty>
+        </subList>
+        <subList>
+          <id>RECORDWORKFLOWHISTORY</id>
+          <label>Workflow History</label>
+          <visible>T</visible>
+          <neverEmpty>F</neverEmpty>
+        </subList>
+      </subItems>
+    </tab>
+    <tab>
+      <id>RECORDTRANSLATION</id>
+      <label>Translation</label>
+      <visible>T</visible>
+      <fieldGroups>
+        <defaultFieldGroup/>
+      </fieldGroups>
+      <subItems>
+        <subList>
+          <id>RECORDTRANSLATIONS</id>
+          <label>Translation</label>
+          <visible>T</visible>
+          <neverEmpty>F</neverEmpty>
+        </subList>
+      </subItems>
+    </tab>
+  </tabs>
+  <actionbar>
+    <menu>
+      <menuitem>
+        <id>DELETE</id>
+        <label>Delete</label>
+        <visible>T</visible>
+      </menuitem>
+      <menuitem>
+        <id>MAKECOPY</id>
+        <label>Make Copy</label>
+        <visible>T</visible>
+      </menuitem>
+      <menuitem>
+        <id>NEW</id>
+        <label>New</label>
+        <visible>T</visible>
+      </menuitem>
+      <menuitem>
+        <id>PRINT</id>
+        <label>Print</label>
+        <visible>T</visible>
+      </menuitem>
+      <menuitem>
+        <id>SUBMITCOPY</id>
+        <label>Save &amp; Copy</label>
+        <visible>T</visible>
+      </menuitem>
+      <menuitem>
+        <id>SUBMITNEW</id>
+        <label>Save &amp; New</label>
+        <visible>T</visible>
+      </menuitem>
+      <menuitem>
+        <id>SUBMITNEXT</id>
+        <label>Save &amp; Next</label>
+        <visible>T</visible>
+      </menuitem>
+      <menuitem>
+        <id>SUBMITAS</id>
+        <label>Save As</label>
+        <visible>T</visible>
+      </menuitem>
+    </menu>
+  </actionbar>
+  <editingInList>T</editingInList>
+</entryForm>

@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hris_final_setjv_creatio_jv">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>HRIS Final Settlement JV Creation SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRIS Script 2.1/final_settlement_2_1/hris_finalsettlement_jv_creation_sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_final_setjv_creatio_jv">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>HRIS Final Settlement JV Creation SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

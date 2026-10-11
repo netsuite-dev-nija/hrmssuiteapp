@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hr21_post_submit_approval">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>submit for approval post sl</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/HRMS Scripts V2.1/Monthly attendance/submit for approval post sl.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hr21_post_submit_approval">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>submit for approval post sl</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
