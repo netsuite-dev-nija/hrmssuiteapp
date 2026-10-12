@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_175_2772245_791">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab150]</centertab>
+  <label>Hiring Process</label>
+  <links>
+    <link>
+      <linklabel>Hiring Processes</linklabel>
+      <linkobject>[scriptid=customscript_njt_emp_hiring_filtering.customdeploy_njt_emp_hiring_filtering]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

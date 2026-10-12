@@ -248,6 +248,44 @@
       <subtab></subtab>
     </customrecordcustomfield>
   </customrecordcustomfields>
+  <instances>
+    <instance scriptid="val_19350_2772245_226">
+      <custrecord_hris_com_comment>Earning Component type</custrecord_hris_com_comment>
+      <custrecord_hris_com_oldinternalid></custrecord_hris_com_oldinternalid>
+      <custrecord_hris_com_sequence_no>1</custrecord_hris_com_sequence_no>
+      <custrecord_hris_component_type>Earning</custrecord_hris_component_type>
+      <custrecord_hris_component_type_descript>Earning Component type</custrecord_hris_component_type_descript>
+      <isinactive>F</isinactive>
+      <name>Earning</name>
+    </instance>
+    <instance scriptid="val_19351_2772245_921">
+      <custrecord_hris_com_comment>Deduction Component Type</custrecord_hris_com_comment>
+      <custrecord_hris_com_oldinternalid></custrecord_hris_com_oldinternalid>
+      <custrecord_hris_com_sequence_no>2</custrecord_hris_com_sequence_no>
+      <custrecord_hris_component_type>Deduction</custrecord_hris_component_type>
+      <custrecord_hris_component_type_descript>Deduction Component Type</custrecord_hris_component_type_descript>
+      <isinactive>F</isinactive>
+      <name>Deduction</name>
+    </instance>
+    <instance scriptid="val_19352_2772245_614">
+      <custrecord_hris_com_comment>Other Component type</custrecord_hris_com_comment>
+      <custrecord_hris_com_oldinternalid></custrecord_hris_com_oldinternalid>
+      <custrecord_hris_com_sequence_no>3</custrecord_hris_com_sequence_no>
+      <custrecord_hris_component_type>Other</custrecord_hris_component_type>
+      <custrecord_hris_component_type_descript>Other Component type</custrecord_hris_component_type_descript>
+      <isinactive>F</isinactive>
+      <name>Other</name>
+    </instance>
+    <instance scriptid="val_19353_2772245_751">
+      <custrecord_hris_com_comment></custrecord_hris_com_comment>
+      <custrecord_hris_com_oldinternalid></custrecord_hris_com_oldinternalid>
+      <custrecord_hris_com_sequence_no>4</custrecord_hris_com_sequence_no>
+      <custrecord_hris_component_type></custrecord_hris_component_type>
+      <custrecord_hris_component_type_descript></custrecord_hris_component_type_descript>
+      <isinactive>F</isinactive>
+      <name>Calculation</name>
+    </instance>
+  </instances>
   <permissions>
     <permission>
       <permittedlevel>FULL</permittedlevel>

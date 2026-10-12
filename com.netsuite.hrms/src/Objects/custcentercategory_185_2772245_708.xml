@@ -1,0 +1,31 @@
+<centercategory scriptid="custcentercategory_185_2772245_708">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab149]</centertab>
+  <label>Performance</label>
+  <links>
+    <link>
+      <linklabel>Staff Evaluation Config</linklabel>
+      <linkobject>[scriptid=customrecord_hris_staff_employee_eva]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Performance Management Template</linklabel>
+      <linkobject>[scriptid=customrecord_hris_performance_management]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Staff  Evaluation Link</linklabel>
+      <linkobject>[scriptid=customsearch_njt_hris_savedsearch_staff_]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Staff Performance Evaluation </linklabel>
+      <linkobject>[scriptid=customrecord_hris_staff_performance_eval]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

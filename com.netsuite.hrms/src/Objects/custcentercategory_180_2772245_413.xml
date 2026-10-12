@@ -1,0 +1,73 @@
+<centercategory scriptid="custcentercategory_180_2772245_413">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab149]</centertab>
+  <label>Setup</label>
+  <links>
+    <link>
+      <linklabel>Department</linklabel>
+      <linkobject>[scriptid=customrecord_cseg_hris_empdept]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Location</linklabel>
+      <linkobject>[scriptid=customrecord_cseg_hris_emploc]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Designation</linklabel>
+      <linkobject>[scriptid=customrecord_hris_designation_master]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Nationality</linklabel>
+      <linkobject>[scriptid=customrecord_hris_nationality]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>ID Card Master</linklabel>
+      <linkobject>[scriptid=customrecordhris_idcardmaster]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Weekly Off Criteria</linklabel>
+      <linkobject>[scriptid=customlist_hris_empweeklyoffcriteria]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Holiday Master</linklabel>
+      <linkobject>[scriptid=customrecord_hris_holiday_master]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Leave Calender</linklabel>
+      <linkobject>[scriptid=customrecord_hris_leave_calender_year]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Asset Master</linklabel>
+      <linkobject>[scriptid=customrecord_hris_asset_master]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Leave Type &amp; Configuration</linklabel>
+      <linkobject>[scriptid=customrecord_hris_leave_credit_configura]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Air Ticket Master</linklabel>
+      <linkobject>[scriptid=customrecord_hris_ticket_master]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

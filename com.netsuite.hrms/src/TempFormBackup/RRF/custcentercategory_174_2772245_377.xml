@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_174_2772245_377">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab150]</centertab>
+  <label>Shortlisted Candidates</label>
+  <links>
+    <link>
+      <linklabel>Shortlisted candidates</linklabel>
+      <linkobject>[scriptid=customrecord_njt_hr_sht_candidate_detail]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

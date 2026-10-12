@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_178_2772245_986">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab150]</centertab>
+  <label>Employee Onboarding</label>
+  <links>
+    <link>
+      <linklabel>Employee Onboarding</linklabel>
+      <linkobject>[scriptid=customscript_njt_employee_creation_onboa.customdeploy_njt_employee_creation_onboa]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

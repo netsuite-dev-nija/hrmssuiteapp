@@ -1,0 +1,18 @@
+<centercategory scriptid="custcentercategory_170_2772245_510">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab149]</centertab>
+  <label>Employee</label>
+  <links>
+    <link>
+      <linkid>LIST_EMPLOYEE_RECORD</linkid>
+      <linklabel></linklabel>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Access To mobile</linklabel>
+      <linkobject>[scriptid=customscript_hris_all_employee_access_tm.customdeploy_hris_all_employee_access_tm]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

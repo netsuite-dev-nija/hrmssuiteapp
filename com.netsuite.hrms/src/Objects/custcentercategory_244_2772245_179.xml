@@ -1,0 +1,37 @@
+<centercategory scriptid="custcentercategory_244_2772245_179">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab149]</centertab>
+  <label>Attendance Report</label>
+  <links>
+    <link>
+      <linklabel>Attendance Regularization Pending Approval</linklabel>
+      <linkobject>[scriptid=customsearch225]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Employee Daily Attendance Timesheet Report</linklabel>
+      <linkobject>[scriptid=customsearch226]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Attendance Status Report</linklabel>
+      <linkobject>[scriptid=customscript_hris_wc_attendance_overll_r.customdeploy_hris_wc_attendance_overll_r]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Attendance Summary Report</linklabel>
+      <linkobject>[scriptid=customscript_hris_monthly_attendance_rep.customdeploy_hris_monthly_attendance_rep]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Project Based Report</linklabel>
+      <linkobject>[scriptid=customscript_hris_project_overall_eachre.customdeploy_hris_project_overall_eachre]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

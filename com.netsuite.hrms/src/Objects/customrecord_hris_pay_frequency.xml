@@ -248,6 +248,44 @@
       <subtab></subtab>
     </customrecordcustomfield>
   </customrecordcustomfields>
+  <instances>
+    <instance scriptid="val_20699_2772245_327">
+      <custrecord_hris_payfreqcomment>Monthly Pay Frequency</custrecord_hris_payfreqcomment>
+      <custrecord_hris_payfrequency>Monthly</custrecord_hris_payfrequency>
+      <custrecord_hris_payfrequencydesc>Monthly Pay Frequency</custrecord_hris_payfrequencydesc>
+      <custrecord_hris_payfrequencyseqno></custrecord_hris_payfrequencyseqno>
+      <custrecord_hris_payoldinternalid></custrecord_hris_payoldinternalid>
+      <isinactive>F</isinactive>
+      <name>Monthly</name>
+    </instance>
+    <instance scriptid="val_20700_2772245_968">
+      <custrecord_hris_payfreqcomment>Annually Pay Frequency</custrecord_hris_payfreqcomment>
+      <custrecord_hris_payfrequency>Annually</custrecord_hris_payfrequency>
+      <custrecord_hris_payfrequencydesc>Annually Pay Frequency</custrecord_hris_payfrequencydesc>
+      <custrecord_hris_payfrequencyseqno></custrecord_hris_payfrequencyseqno>
+      <custrecord_hris_payoldinternalid></custrecord_hris_payoldinternalid>
+      <isinactive>F</isinactive>
+      <name>Annually</name>
+    </instance>
+    <instance scriptid="val_20701_2772245_183">
+      <custrecord_hris_payfreqcomment>Bi-Monthly</custrecord_hris_payfreqcomment>
+      <custrecord_hris_payfrequency>Bi-Monthly</custrecord_hris_payfrequency>
+      <custrecord_hris_payfrequencydesc>Bi-Monthly</custrecord_hris_payfrequencydesc>
+      <custrecord_hris_payfrequencyseqno></custrecord_hris_payfrequencyseqno>
+      <custrecord_hris_payoldinternalid></custrecord_hris_payoldinternalid>
+      <isinactive>F</isinactive>
+      <name>Bi-Monthly</name>
+    </instance>
+    <instance scriptid="val_20772_2772245_900">
+      <custrecord_hris_payfreqcomment></custrecord_hris_payfreqcomment>
+      <custrecord_hris_payfrequency></custrecord_hris_payfrequency>
+      <custrecord_hris_payfrequencydesc></custrecord_hris_payfrequencydesc>
+      <custrecord_hris_payfrequencyseqno></custrecord_hris_payfrequencyseqno>
+      <custrecord_hris_payoldinternalid></custrecord_hris_payoldinternalid>
+      <isinactive>F</isinactive>
+      <name>Calculation</name>
+    </instance>
+  </instances>
   <permissions>
     <permission>
       <permittedlevel>FULL</permittedlevel>

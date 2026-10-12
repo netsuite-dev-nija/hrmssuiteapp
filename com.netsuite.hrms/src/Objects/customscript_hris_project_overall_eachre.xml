@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_hris_project_overall_eachre">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>project based overall each project repor</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteApps/com.netsuite.hrms/project based overall each project summary report.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_hris_project_overall_eachre">
+      <allemployees>T</allemployees>
+      <allpartners>T</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole>ADMINISTRATOR</runasrole>
+      <status>RELEASED</status>
+      <title>project based overall each project repor</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

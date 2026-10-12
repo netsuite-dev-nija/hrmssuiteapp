@@ -1,0 +1,19 @@
+<centercategory scriptid="custcentercategory_176_2772245_703">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab150]</centertab>
+  <label>Visa Processing</label>
+  <links>
+    <link>
+      <linklabel>Visa Processing</linklabel>
+      <linkobject>[scriptid=customscript_hris_visa_process_sl.customdeploy_hris_visa_process_sl]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Visa Processing Checklist</linklabel>
+      <linkobject>[scriptid=customrecord_njt_visaprocessingchklist]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

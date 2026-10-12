@@ -1,0 +1,49 @@
+<centercategory scriptid="custcentercategory_182_2772245_498">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab149]</centertab>
+  <label>Attendance Management</label>
+  <links>
+    <link>
+      <linklabel>Bio-Staging Attendance</linklabel>
+      <linkobject>[scriptid=customrecord_hris_biometric_staging]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Biometric/Mobile Attendance</linklabel>
+      <linkobject>[scriptid=customrecord_njt_daily_attendance_bio]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Daily Attendance Time Sheet</linklabel>
+      <linkobject>[scriptid=customrecord_hris_daily_timesheet_overal]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Attendance Regularization</linklabel>
+      <linkobject>[scriptid=customrecord_hr_attend_regularization]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Daily To Monthly Attendance Process</linklabel>
+      <linkobject>[scriptid=customscript_hr21_dailytomon_criter_sl.customdeploy_hr21_dailytomon_criter_sl]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Monthly Attendance Approval Process</linklabel>
+      <linkobject>[scriptid=customscript_n21_emp_month_appr_pro.customdeploy_n21_emp_month_appr_pro]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Finalize Monthly Attendance</linklabel>
+      <linkobject>[scriptid=customscript_njt_monthattepayproc_cre.customdeploy_njt_monthattepayproc_cre]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

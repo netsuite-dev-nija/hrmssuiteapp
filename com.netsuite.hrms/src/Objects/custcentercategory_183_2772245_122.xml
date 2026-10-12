@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_183_2772245_122">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab149]</centertab>
+  <label>Monthly Attendance</label>
+  <links>
+    <link>
+      <linklabel>Monthly attendance</linklabel>
+      <linkobject>[scriptid=customrecord_hrms_monthlyattendance]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

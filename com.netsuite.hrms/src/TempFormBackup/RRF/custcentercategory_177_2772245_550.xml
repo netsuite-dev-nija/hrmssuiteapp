@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_177_2772245_550">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab150]</centertab>
+  <label>Candidate RRF Allocation</label>
+  <links>
+    <link>
+      <linklabel>Candidate RRF Allocation</linklabel>
+      <linkobject>[scriptid=customscript_njt_allocation_process_sl.customdeploynjt_allocation_process_sl]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>
