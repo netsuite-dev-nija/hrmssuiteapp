@@ -1,0 +1,19 @@
+<centercategory scriptid="custcentercategory_245_2772245_581">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab151]</centertab>
+  <label>Monthly Accural Process</label>
+  <links>
+    <link>
+      <linklabel>Monthly Accural Process</linklabel>
+      <linkobject>[scriptid=customscript_hris_month_accural_version.customdeploy_hris_month_accural_version]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Monthly Accural Transaction Record</linklabel>
+      <linkobject>[scriptid=customrecord_hris_monthly_accural_trans]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

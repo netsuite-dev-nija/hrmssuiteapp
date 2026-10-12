@@ -1,0 +1,43 @@
+<centercategory scriptid="custcentercategory_189_2772245_825">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab151]</centertab>
+  <label>Transaction</label>
+  <links>
+    <link>
+      <linklabel>Employee Compensation Change</linklabel>
+      <linkobject>[scriptid=customrecord_hris_employee_compen_change]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Salary Updation/Revision</linklabel>
+      <linkobject>[scriptid=customrecord_hris_employee_compensation]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Monthly Salary Input</linklabel>
+      <linkobject>[scriptid=customrecord_hris_monthlysalinput]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Unpaid Leave Entry</linklabel>
+      <linkobject>[scriptid=customrecord_hris_unpaid_leave_entry]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Unpaid Arrear Entry</linklabel>
+      <linkobject>[scriptid=customrecord_hris_unpaid_arrear_entry]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>loan/cash advance</linklabel>
+      <linkobject>[scriptid=customrecord_hris_empchange_loan_applicn]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

@@ -1,0 +1,73 @@
+<centercategory scriptid="custcentercategory_172_2772245_829">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab151]</centertab>
+  <label>Setup</label>
+  <links>
+    <link>
+      <linklabel>Payroll Financial Master</linklabel>
+      <linkobject>[scriptid=customrecord_hris_payroll_financial_year]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Payroll Process Group Master</linklabel>
+      <linkobject>[scriptid=customrecord_hris_process_groupmaster]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Payroll Component</linklabel>
+      <linkobject>[scriptid=customrecord_hris_payroll_component]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Payroll Wage Period</linklabel>
+      <linkobject>[scriptid=customrecord_hris_wage_period_details]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Payroll Global Parameter</linklabel>
+      <linkobject>[scriptid=customrecord_hris_global_parameter]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Gratuity Slab</linklabel>
+      <linkobject>[scriptid=customrecord_hris_gratuity_slab]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Air ticket Master</linklabel>
+      <linkobject>[scriptid=customrecord_hris_ticket_master]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Bank Master</linklabel>
+      <linkobject>[scriptid=customrecord_hris_bank_master]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Loan Master</linklabel>
+      <linkobject>[scriptid=customrecord_hris_loan_master]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Visa (MOL) Type</linklabel>
+      <linkobject>[scriptid=customrecord_hris_visa_type_master]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Overtime Type</linklabel>
+      <linkobject>[scriptid=customrecord_hris_overtime_type]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

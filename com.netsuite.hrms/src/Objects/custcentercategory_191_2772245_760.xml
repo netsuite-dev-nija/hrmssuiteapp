@@ -1,0 +1,37 @@
+<centercategory scriptid="custcentercategory_191_2772245_760">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab151]</centertab>
+  <label>Reports</label>
+  <links>
+    <link>
+      <linklabel>Salary Register report - Monthly</linklabel>
+      <linkobject>[scriptid=customscript_hris_salary_reg_mon_reports.customdeploy_hris_salary_reg_mon_reports]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Generate Payslip</linklabel>
+      <linkobject>[scriptid=customscript_hr21_gen_payslip_sl_secvers.customdeploy_hr21_gen_payslip_sl_secvers]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>WPS Report</linklabel>
+      <linkobject>[scriptid=customscript_hris_wps_report_cre_fil_sl.customdeploy_hris_wps_report_cre_fil_sl]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Loan Opening Balance Report</linklabel>
+      <linkobject>[scriptid=customsearch174]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Loan Outstanding Report</linklabel>
+      <linkobject>[scriptid=customsearch175]</linkobject>
+      <linktasktype>SRCH_RSLT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

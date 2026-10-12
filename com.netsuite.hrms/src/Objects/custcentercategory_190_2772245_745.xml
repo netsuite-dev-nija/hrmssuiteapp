@@ -1,0 +1,37 @@
+<centercategory scriptid="custcentercategory_190_2772245_745">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab151]</centertab>
+  <label>Pay Process</label>
+  <links>
+    <link>
+      <linklabel>Pay Process</linklabel>
+      <linkobject>[scriptid=customscript_hris_payrollprocess_sl.customdeploy_hris_payrollprocess_sl]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Confirm Pay Process</linklabel>
+      <linkobject>[scriptid=customrecord_hris_confirm_pay_process]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Leave Settlement</linklabel>
+      <linkobject>[scriptid=customrecord_hrms_leavesettlement]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Full And Final Settlement Process</linklabel>
+      <linkobject>[scriptid=customrecord_hris_finasettlement_process]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Pre Pay Process</linklabel>
+      <linkobject>[scriptid=customrecord_hris_pre_pay_process_record]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

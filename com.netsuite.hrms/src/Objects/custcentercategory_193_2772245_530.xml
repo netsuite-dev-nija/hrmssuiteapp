@@ -1,0 +1,55 @@
+<centercategory scriptid="custcentercategory_193_2772245_530">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab152]</centertab>
+  <label>ESS self service</label>
+  <links>
+    <link>
+      <linklabel>Expense Claim</linklabel>
+      <linkobject>[scriptid=customrecord_hris_expense_claim_form]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Travel Request</linklabel>
+      <linkobject>[scriptid=customrecord_ess_travel_requisition_form]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Asset Request</linklabel>
+      <linkobject>[scriptid=customrecord_hris_asset_req_form]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Asset Issue Form</linklabel>
+      <linkobject>[scriptid=customrecord_hris_asset_issues_form]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Asset Hand over Form</linklabel>
+      <linkobject>[scriptid=customrecord_hris_asset_handover]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Letter Request</linklabel>
+      <linkobject>[scriptid=customrecord_hris_lve_letter_req]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Passport Request Form</linklabel>
+      <linkobject>[scriptid=customrecord_hris_passport_requestform]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel>Employee Exit Interview Form</linklabel>
+      <linkobject>[scriptid=customrecord_hr_exit_interview_form]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

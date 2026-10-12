@@ -1,0 +1,31 @@
+<centercategory scriptid="custcentercategory_173_2772245_388">
+  <center>[scriptid=custcenter3]</center>
+  <centertab>[scriptid=custcentertab152]</centertab>
+  <label>Leave Management</label>
+  <links>
+    <link>
+      <linklabel>Leave Application</linklabel>
+      <linkobject>[scriptid=customrecord_hris_leaveapplication]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel></linklabel>
+      <linkobject>[scriptid=customrecord_hris_leavebalance]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel></linklabel>
+      <linkobject>[scriptid=customrecord_hris_pullback_lveapplicatio]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+    <link>
+      <linklabel></linklabel>
+      <linkobject>[scriptid=customrecord_hris_leavesettlement]</linkobject>
+      <linktasktype>LIST</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>
